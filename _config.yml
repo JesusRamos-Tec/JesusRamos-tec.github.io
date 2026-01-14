@@ -1,4 +1,4 @@
-remote_theme: pages-themes/merlot
+remote_theme: pages-themes/modernist
 plugins:
 - jekyll-remote-theme
 title: Portfolio IT - Jesús Ramos
