@@ -6,6 +6,7 @@ Bienvenido a mi base de conocimientos técnica. Aquí documento mis proyectos y 
 - **[Monitorización con Wazuh](./manual-wazuh.md):** Despliegue de SIEM en entornos críticos.
 - **[Replanteo de Red IT](./proyecto-red.md):** Diseño de segmentación mediante VLSM y VLANs.
 - **[Automatización con Ansible](./ansible.md):** Gestión de infraestructura como código.
+- **[ISO27001:2022](./dominos):** Cumplimiento normativo de los Sistemas de Gestión de Seguridad de la Información.
 
 ## 🛠️ Stack Tecnológico
 - **OS:** RHEL, Ubuntu Server, Windows Server 2022.
