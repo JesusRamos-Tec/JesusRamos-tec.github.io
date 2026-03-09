@@ -1,62 +1,55 @@
 # ISO/IEC 27001:2022 Security Control Framework
 
-Este repositorio contiene un **Marco de Control de Seguridad de la Información** completo, basado en el Anexo A de la normativa internacional **ISO/IEC 27001:2022**. 
+Este repositorio contiene el **Marco de Control de Seguridad de la Información** completo, basado en los 29 anexos técnicos y organizativos desarrollados para la gestión de la ciberseguridad corporativa.
 
-El objetivo de este proyecto es proporcionar una estructura de gobernanza técnica y organizativa para garantizar la Confidencialidad, Integridad y Disponibilidad (CIA) de los activos de información en entornos corporativos críticos.
-
-## 📂 Estructura del Framework por Dominios
-
-He organizado los 29 controles y políticas desarrolladas en los cuatro dominios clave de la normativa vigente, facilitando su implementación y auditoría.
-
-### 🛡️ Dominio 1: Controles Organizativos
-*Controles enfocados en la política, la estrategia y la relación con terceros.*
-
-- [ANX-01] [Acceso y Control a la Información](./dominios/organizativo/ANX-01-acceso-informacion.md)
-- [ANX-05] [Seguridad en Teletrabajo](./dominios/organizativo/ANX-05-teletrabajo.md)
-- [ANX-15] [Gestión de Relación con Proveedores](./dominios/organizativo/ANX-15-proveedores.md)
-- [ANX-19] [Clasificación de la Información](./dominios/organizativo/ANX-19-clasificacion.md)
-- [ANX-20] [Etiquetado de Información](./dominios/organizativo/ANX-20-etiquetado.md)
-- [ANX-22] [Directrices para Redes Sociales](./dominios/organizativo/ANX-22-redes-sociales.md)
-- [ANX-26] [Revisión y Mejora de Políticas](./dominios/organizativo/ANX-26-revision.md)
-
-### 👥 Dominio 2: Controles de Personas
-*Gestión del factor humano y concienciación en ciberseguridad.*
-
-- [ANX-11] [Plan de Concienciación y Formación](./dominios/personas/ANX-11-concienciacion.md)
-- [ANX-23] [Prevención de Ingeniería Social](./dominios/personas/ANX-23-ingenieria-social.md)
-- [ANX-29] [Protocolo de Cese o Cambio de Puesto](./dominios/personas/ANX-29-cese-laboral.md)
-
-### 🏢 Dominio 3: Controles Físicos
-*Protección de los activos físicos y el entorno de trabajo.*
-
-- [ANX-06] [Protección del Puesto de Trabajo](./dominios/fisico/ANX-06-puesto-trabajo.md)
-- [ANX-08] [Gestión de Soportes de Información](./dominios/fisico/ANX-08-soportes.md)
-- [ANX-16] [Seguridad Física y del Entorno](./dominios/fisico/ANX-16-seguridad-fisica.md)
-- [ANX-21] [Política de Escritorio y Pantalla Limpia](./dominios/fisico/ANX-21-escritorio-limpio.md)
-- [ANX-27] [Mantenimiento y Seguridad de Equipos](./dominios/fisico/ANX-27-mantenimiento.md)
-
-### 💻 Dominio 4: Controles Tecnológicos
-*Especificaciones técnicas, hardening y arquitectura de red.*
-
-- [ANX-02] [Gestión de Identidades y Contraseñas](./dominios/tecnologico/ANX-02-contrasenas.md)
-- [ANX-03] [Gestión de Parches y Actualizaciones](./dominios/tecnologico/ANX-03-actualizaciones.md)
-- [ANX-04] [Acceso desde Redes Externas/No Corporativas](./dominios/tecnologico/ANX-04-redes-externas.md)
-- [ANX-07] [Gestión de Dispositivos Móviles (MDM/BYOD)](./dominios/tecnologico/ANX-07-dispositivos-moviles.md)
-- [ANX-09] [Estándares de Criptografía y Cifrado](./dominios/tecnologico/ANX-09-criptografia.md)
-- [ANX-10] [Política de Backup y Recuperación](./dominios/tecnologico/ANX-10-backup.md)
-- [ANX-12] [Respuesta ante Incidentes de Seguridad](./dominios/tecnologico/ANX-12-incidentes.md)
-- [ANX-13] [Seguridad en Redes y Comunicaciones (VLAN/VLSM)](./dominios/tecnologico/ANX-13-seguridad-redes.md)
-- [ANX-14] [Protección contra Malware y Código Malicioso](./dominios/personas/ANX-14-directivas.md)
-- [ANX-17] [Protección contra Malware y Código Malicioso](./dominios/tecnologico/ANX-17-malware.md)
-- [ANX-18] [Monitorización y Registro de Logs (SIEM)](./dominios/tecnologico/ANX-18-logs.md)
-- [ANX-24] [Seguridad en el Ciclo de Desarrollo de Software](./dominios/tecnologico/ANX-24-desarrollo.md)
-- [ANX-25] [Privacidad y Protección de Datos Personales](./dominios/tecnologico/ANX-25-privacidad.md)
-- [ANX-28] [Protocolo de Eliminación Segura de Datos](./dominios/tecnologico/ANX-28-eliminacion-datos.md)
+Los controles se han organizado según los 4 dominios de la normativa **ISO/IEC 27001:2022** para facilitar su auditoría y seguimiento.
 
 ---
 
-## 🛠️ Metodología de Uso
-Cada anexo incluye un **Checklist de Control** y una descripción de los objetivos técnicos para facilitar las auditorías internas y el cumplimiento de los indicadores de seguridad (KPIs).
+## 🛡️ Módulo 1: Controles Organizativos
+*Gobernanza, cumplimiento legal y gestión de terceros.*
+
+- [ANX-16] [Clasificación de la Información](./dominios/organizativo/ANX-16-clasificacion.md)
+- [ANX-22] [Continuidad de Negocio](./dominios/organizativo/ANX-22-continuidad.md)
+- [ANX-23] [Cumplimiento Legal (LOPDGDD)](./dominios/organizativo/ANX-23-cumplimiento.md)
+- [ANX-27] [Relación de Proveedores](./dominios/organizativo/ANX-27-proveedores.md)
+- [ANX-28] [Plan de Seguridad General](./dominios/organizativo/ANX-28-plan-seguridad.md)
+
+## 👥 Módulo 2: Controles de Personas
+*Gestión del factor humano y formación.*
+
+- [ANX-25] [Formación y Concienciación](./dominios/personas/ANX-25-concienciacion.md)
+- [ANX-26] [Gestión de Recursos Humanos](./dominios/personas/ANX-26-rrhh.md)
+
+## 🏢 Módulo 3: Controles Físicos y de Puesto
+*Seguridad del entorno físico y activos locales.*
+
+- [ANX-06] [Protección del Puesto de Trabajo](./dominios/fisico/ANX-06-puesto.md)
+- [ANX-09] [Almacenamiento en Equipo Local](./dominios/fisico/ANX-09-almacenamiento-local.md)
+- [ANX-11] [Almacenamiento en Dispositivos Extraíbles](./dominios/fisico/ANX-11-extraibles.md)
+- [ANX-13] [Aplicaciones Permitidas (Software Autorizado)](./dominios/fisico/ANX-13-apps-permitidas.md)
+- [ANX-21] [Respuesta a Incidentes (Operativa)](./dominios/fisico/ANX-21-incidentes.md)
+
+## 💻 Módulo 4: Controles Tecnológicos
+*Infraestructura, redes, cifrado y monitorización.*
+
+- [ANX-01] [Acceso y Control a la Información](./dominios/tecnologico/ANX-01-acceso.md)
+- [ANX-02] [Gestión de Contraseñas](./dominios/tecnologico/ANX-02-contrasenas.md)
+- [ANX-03] [Actualización de Software y Aplicaciones](./dominios/tecnologico/ANX-03-parches.md)
+- [ANX-04] [Acceso desde Redes no Corporativas](./dominios/tecnologico/ANX-04-redes-externas.md)
+- [ANX-05] [Seguridad en Teletrabajo](./dominios/tecnologico/ANX-05-teletrabajo.md)
+- [ANX-07] [Sistema de Copias de Seguridad (Backup)](./dominios/tecnologico/ANX-07-backup.md)
+- [ANX-08] [Protocolo de Borrado Seguro](./dominios/tecnologico/ANX-08-borrado.md)
+- [ANX-10] [Almacenamiento en Red Corporativa](./dominios/tecnologico/ANX-10-almacenamiento-red.md)
+- [ANX-12] [Almacenamiento en la Nube (Cloud)](./dominios/tecnologico/ANX-12-cloud.md)
+- [ANX-14] [Protección Antimalware](./dominios/tecnologico/ANX-14-antimalware.md)
+- [ANX-15] [Seguridad en Correo Electrónico](./dominios/tecnologico/ANX-15-email.md)
+- [ANX-17] [Dispositivos Móviles Corporativos](./dominios/tecnologico/ANX-17-moviles-corp.md)
+- [ANX-18] [Dispositivos Móviles no Corporativos (BYOD)](./dominios/tecnologico/ANX-18-byod.md)
+- [ANX-19] [Seguridad en Página Web](./dominios/tecnologico/ANX-19-web.md)
+- [ANX-20] [Auditorías de Sistema](./dominios/tecnologico/ANX-20-auditoria.md)
+- [ANX-24] [Gestión de Logs (Monitorización)](./dominios/tecnologico/ANX-24-logs.md)
+- [ANX-29] [Uso de Técnicas Criptográficas](./dominios/tecnologico/ANX-29-criptografia.md)
 
 ---
-© 2026 Juan Jesús Ramos Sosa | Auditor Interno ISO 27001:2022
+© 2026 Juan Jesús Ramos Sosa | Auditor Interno ISO 27001
