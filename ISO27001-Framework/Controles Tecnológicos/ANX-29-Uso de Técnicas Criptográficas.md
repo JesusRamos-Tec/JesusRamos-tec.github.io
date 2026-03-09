@@ -1,4 +1,4 @@
-# ANX-09: Uso de Técnicas Criptográficas
+# ANX-29: Uso de Técnicas Criptográficas
 ## 🎯 Objetivo
 Garantizar el uso adecuado y eficaz de las técnicas criptográficas para asegurar la **Confidencialidad, Integridad, Autenticidad y el No Repudio** de la información sensible manejada por la organización, tanto en estado de reposo (almacenada) como en tránsito.
 
