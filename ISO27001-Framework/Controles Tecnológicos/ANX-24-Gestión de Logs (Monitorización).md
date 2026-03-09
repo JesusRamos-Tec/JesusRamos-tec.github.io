@@ -28,7 +28,7 @@ Cada registro generado debe incluir, como mínimo, la siguiente información par
 * **Temporalidad:** Fecha y hora exacta del evento (requiere **Sincronización de Reloj** mediante NTP).
 * **Contexto:** Tipología del evento y elemento afectado (ficheros, bases de datos, equipos).
 
-> [¡IMPORTANTE]
+> [!IMPORTANTE]
 > **Protección y Almacenamiento:** Los logs deben protegerse contra modificaciones no autorizadas y almacenarse durante el periodo legal establecido para garantizar su validez en procesos de forense digital.
 
 ---
