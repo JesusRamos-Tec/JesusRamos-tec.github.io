@@ -1,42 +1,64 @@
 # ANX-09: Estándares de Criptografía y Cifrado
 
 ## 🎯 Objetivo
-Garantizar la confidencialidad, integridad y autenticidad de la información mediante el uso de controles criptográficos adecuados, minimizando los riesgos de acceso no autorizado o manipulación de datos.
+Garantizar el uso adecuado y eficaz de las técnicas criptográficas para asegurar la **Confidencialidad, Integridad, Autenticidad y el No Repudio** de la información sensible manejada por la organización, tanto en estado de reposo (almacenada) como en tránsito.
 
 ---
 
-## 🛠️ Especificaciones Técnicas y Algoritmos Autorizados
+## 🔍 Puntos de Control y Directrices
 
-Para asegurar un nivel de protección robusto, se establecen los siguientes estándares obligatorios para la organización:
+### 1. Identificación de Información Susceptible de Cifrado
+Basado en la clasificación de activos, se establece la obligatoriedad de cifrado para:
+* Información sensible, de carácter personal o confidencial.
+* Registros con credenciales de autenticación.
+* Información almacenada en dispositivos personales o servicios Cloud de terceros.
+* Información transferida a través de redes no confiables o soportes físicos no protegidos.
 
-### 1. Comunicaciones Inalámbricas (Wi-Fi)
-- **Estándar Mínimo:** WPA2-Enterprise con cifrado AES.
-- **Estándar Recomendado:** WPA3.
-- **Restricción:** Queda prohibido el uso de protocolos obsoletos o vulnerables como WEP o WPA (TKIP).
+### 2. Firma Electrónica y Certificados Digitales
+Se implementa el uso de firma electrónica para garantizar la autenticidad en trámites administrativos y comerciales:
+* **Tipos de certificados:** Persona jurídica, pertenencia a empresa, representante y factura electrónica.
+* **Gestión de ciclo de vida:** Supervisión de periodos de validez, gestión de almacenamiento seguro y capacidad de revocación inmediata.
 
-### 2. Acceso Remoto y Administración de Sistemas
-- **VPN (Virtual Private Network):** Uso obligatorio de túneles cifrados mediante protocolos SSL/TLS o IPsec con algoritmos de intercambio de claves seguros.
-- **Protocolos de Gestión:** - Acceso a servidores vía **SSH v2** (deshabilitando v1).
-  - Transferencia de archivos mediante **SFTP** o **HTTPS**.
-  - RDP solo permitido a través de Gateway VPN.
+### 3. Seguridad en Servicios y Comunicaciones
+* **Certificados Web (SSL/TLS):** Implementación obligatoria en sitios corporativos.
+* **Servicios Externos y Desarrollo:** Cláusulas de cifrado obligatorio en la contratación de servicios externos y en el desarrollo de aplicaciones (especialmente para el login de usuarios).
+* **Acceso Remoto:** Uso exclusivo de túneles **VPN cifrados** para cualquier acceso desde el exterior.
 
-### 3. Almacenamiento de Información (Data at Rest)
-- **Cifrado de Puestos de Trabajo:** Uso de BitLocker (Windows) o FileVault (macOS) con cifrado mínimo de **AES-256 bits**.
-- **Dispositivos Extraíbles:** Obligatoriedad de cifrado en cualquier soporte que contenga datos corporativos.
-
----
-
-## ✅ Checklist de Control de Auditoría
-
-| ID | Control de Seguridad | Cumplimiento | Observaciones |
-| :--- | :--- | :---: | :--- |
-| **9.1** | ¿Se utilizan algoritmos de cifrado simétrico AES-256 para datos sensibles? | [ ] | Estándar de la industria. |
-| **9.2** | ¿Se han deshabilitado protocolos de comunicación no cifrados (Telnet, FTP, HTTP)? | [ ] | Reemplazados por SSH, SFTP, HTTPS. |
-| **9.3** | ¿Se emplean certificados digitales vigentes (SSL/TLS) para servicios web? | [ ] | Verificación de CA autorizada. |
-| **9.4** | ¿Existe una política de acceso desde el exterior basada exclusivamente en VPN? | [ ] | Auditoría de túneles activos. |
-| **9.5** | ¿Las credenciales en bases de datos se almacenan con algoritmos de Hash (SHA-256 o superior)? | [ ] | Prohibido texto plano. |
+### 4. Estándares Tecnológicos (Hardening)
+* **Algoritmos Autorizados:** Uso prioritario de algoritmos de especificación pública y asimétricos.
+* **Protocolos Seguros:**
+    * **Administración:** SSH v2 (prohibido Telnet).
+    * **Transferencia:** SFTP / FTPS.
+    * **Web:** HTTPS para servicios críticos.
+* **Redes Inalámbricas:** Configuración mínima **WPA2** (o superior).
 
 ---
 
-> [!IMPORTANT]
-> **Nota del Auditor:** El uso de criptografía debe revisarse anualmente para asegurar que los algoritmos empleados no han sido declarados obsoletos por la comunidad de ciberseguridad.
+## 📊 Matriz de Control de Auditoría
+
+Para la evaluación del cumplimiento, los controles se clasifican por su **Nivel** (Básico/Avanzado) y su **Alcance** (Procesos, Tecnologías, Personas).
+
+| NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
+| :---: | :---: | :--- | :---: |
+| **B** | **PRO** | Identificación de información susceptible de ser cifrada. | [ ] |
+| **B** | **PRO/TEC** | Implantación de firma electrónica para e-Administración. | [ ] |
+| **B** | **PRO/TEC** | Adquisición y mantenimiento de certificados web (SSL/TLS). | [ ] |
+| **B** | **PRO/TEC** | Verificación de canales cifrados en servicios externos. | [ ] |
+| **B** | **PRO/TEC** | Cifrado de credenciales en desarrollo de aplicaciones. | [ ] |
+| **B** | **PRO/TEC** | Autorización de acceso exterior mediante canales VPN. | [ ] |
+| **B** | **TEC** | Aplicación y revisión periódica de algoritmos autorizados. | [ ] |
+| **B** | **TEC** | Inventariado de aplicaciones autorizadas para cifrado. | [ ] |
+| **B** | **TEC** | Implementación de protocolos seguros (SSH, SFTP, HTTPS). | [ ] |
+| **B** | **TEC** | Configuración de red inalámbrica con estándar de seguridad. | [ ] |
+
+---
+
+## 📋 Gestión de Aplicaciones Autorizadas
+Se mantiene un listado de aplicaciones validadas por el departamento de IT para las siguientes funciones:
+1.  Cifrado de disco de arranque.
+2.  Cifrado de soportes extraíbles (USB/Discos).
+3.  Cifrado de backups y bases de datos.
+4.  Cifrado de correo electrónico y directorios.
+
+---
+> **Evaluación de Riesgos:** El incumplimiento de estas directrices criptográficas supone un riesgo crítico de pérdida de confidencialidad y posibles sanciones legales en materia de protección de datos.
