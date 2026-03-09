@@ -23,7 +23,6 @@ He organizado los 29 controles y políticas desarrolladas en los cuatro dominios
 *Gestión del factor humano y concienciación en ciberseguridad.*
 
 - [ANX-11] [Plan de Concienciación y Formación](./dominios/personas/ANX-11-concienciacion.md)
-- [ANX-14] [Responsabilidades Directivas](./dominios/personas/ANX-14-directivas.md)
 - [ANX-23] [Prevención de Ingeniería Social](./dominios/personas/ANX-23-ingenieria-social.md)
 - [ANX-29] [Protocolo de Cese o Cambio de Puesto](./dominios/personas/ANX-29-cese-laboral.md)
 
@@ -47,6 +46,7 @@ He organizado los 29 controles y políticas desarrolladas en los cuatro dominios
 - [ANX-10] [Política de Backup y Recuperación](./dominios/tecnologico/ANX-10-backup.md)
 - [ANX-12] [Respuesta ante Incidentes de Seguridad](./dominios/tecnologico/ANX-12-incidentes.md)
 - [ANX-13] [Seguridad en Redes y Comunicaciones (VLAN/VLSM)](./dominios/tecnologico/ANX-13-seguridad-redes.md)
+- [ANX-14] [Protección contra Malware y Código Malicioso](./dominios/personas/ANX-14-directivas.md)
 - [ANX-17] [Protección contra Malware y Código Malicioso](./dominios/tecnologico/ANX-17-malware.md)
 - [ANX-18] [Monitorización y Registro de Logs (SIEM)](./dominios/tecnologico/ANX-18-logs.md)
 - [ANX-24] [Seguridad en el Ciclo de Desarrollo de Software](./dominios/tecnologico/ANX-24-desarrollo.md)
