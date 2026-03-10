@@ -10,7 +10,7 @@ Los controles se han organizado según los 4 dominios de la normativa **ISO/IEC 
 *Gobernanza, cumplimiento legal y gestión de terceros.*
 
 - [ANX-16] [Clasificación de la Información](./dominios/organizativo/ANX-16-clasificacion.md)
-- [ANX-22] [Continuidad de Negocio](./dominios/organizativo/ANX-22-continuidad.md)
+- [ANX-22] [Continuidad de Negocio](./ISO27001-Framework/Controles Organizativos/ANX-23-Cumplimiento Legal (LOPDGDD).md)
 - [ANX-23] [Cumplimiento Legal (LOPDGDD)](./dominios/organizativo/ANX-23-cumplimiento.md)
 - [ANX-27] [Relación de Proveedores](./dominios/organizativo/ANX-27-proveedores.md)
 - [ANX-28] [Plan de Seguridad General](./dominios/organizativo/ANX-28-plan-seguridad.md)
