@@ -1,6 +1,9 @@
-Bienvenido a mi base de conocimientos técnica. Aquí documento mis proyectos y laboratorios de infraestructura, ciberseguridad y mi camino hacia la certificación **RHCSA**.
----
+#Juan Jesús Ramos Sosa
+## Systems Administrator | Cybersecurity Compliance ISO27001:2022 & Infrastructure
 
+Bienvenido a mi base de conocimientos técnica. Aquí documento mis proyectos y laboratorios de infraestructura, ciberseguridad y mi camino hacia la certificación **RHCSA**.
+
+---
 ## 🚀 Proyectos Destacados
 - **[Monitorización con Wazuh](./manual-wazuh.md):** Despliegue de SIEM en entornos críticos.
 - **[Replanteo de Red IT](./proyecto-red.md):** Diseño de segmentación mediante VLSM y VLANs.
