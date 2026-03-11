@@ -13,17 +13,17 @@ Bienvenido a mi base de conocimientos personal. Aquí documento mis proyectos, l
 - **[Monitorización con Wazuh](./manual-wazuh.md)**: Despliegue de SIEM en entornos críticos y gestión de alertas.
 
 ### 🏗️ Infraestructura & Networking
-- **[Replanteo de Red IT](./proyecto-red.md)**: Diseño de segmentación mediante VLSM, VLANs y despliegue de Firewall Sophos XG.
+- **[Replanteo de Red IT](./proyecto-red.md)**: Diseño de segmentación mediante VLSM y VLANs
 - **[Automatización de Guardado](./02-Guias-Tecnicas/Guardado-Archivos-Servidor.md)**: Configuración técnica de GPOs, redirección de carpetas y cuotas FSRM.
 
 ### 🐧 Laboratorio Linux (Road to RHCSA)
-- **[Automatización con Ansible](./ansible.md)**: Gestión de infraestructura como código y automatización de tareas en RHEL.
+- **[Automatización con Ansible](./ansible.md)**: Gestión de infraestructura como código y automatización de tareas.
 - **[Administración RHEL](./rhcsa-notes.md)**: Notas de estudio y laboratorios prácticos para la certificación.
 
 ---
 
 ## 🛠️ Stack Tecnológico
-- **OS:** RHEL (foco principal), Ubuntu Server, Windows Server 2022.
+- **OS:** RHEL (foco principal), Ubuntu Server, Windows Server 2016 y 2022.
 - **Networking:** Sophos XG, VPN (IPsec/OpenVPN), VLAN/VLSM.
 - **Compliance:** ISO 27001, Gestión de Riesgos, Auditoría Técnica.
 
