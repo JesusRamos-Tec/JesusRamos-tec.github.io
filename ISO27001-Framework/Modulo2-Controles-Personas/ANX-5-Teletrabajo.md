@@ -1,4 +1,4 @@
-# ANX-05: Teletrabajo
+# Anexo 05: Teletrabajo
 
 ## 🎯 Objetivo
 Garantizar la seguridad de la información y los recursos corporativos de **Inespasa** durante el trabajo remoto, concienciando al personal sobre los riesgos y aplicando medidas técnicas que aseguren la confidencialidad e integridad de los datos fuera de la oficina.
@@ -43,14 +43,17 @@ Priorizamos el control sobre el hardware para asegurar el cumplimiento de las po
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Difusión de la normativa de puesto remoto y auditorías de cumplimiento. | [ ] |
-| **B** | **PRO/TEC** | Registro de usuarios autorizados para teletrabajo. | [ ] |
-| **B** | **PRO/PER** | Firma de acuerdos de responsabilidad y entrega de equipos. | [ ] |
-| **A** | **TEC** | Configuración de VPN, MFA y cifrado de soportes. | [ ] |
-| **A** | **TEC** | Gestión de privilegios mínimos y aplicaciones permitidas en remoto. | [ ] |
-| **A** | **TEC** | Planificación y verificación de backups en dispositivos remotos. | [ ] |
-| **B** | **PER** | Uso preferente de dispositivos corporativos y redes seguras (evitar WiFi público). | [ ] |
-| **A** | **PRO** | Cumplimiento legal LOPDGDD y formación específica en privacidad. | [ ] |
+| **B** | **PRO** | Difusión de la normativa de puesto remoto y auditorías de cumplimiento. | ☐ |
+| **B** | **PRO/TEC** | Registro de usuarios autorizados para teletrabajo. | ☐ |
+| **B** | **PRO/PER** | Firma de acuerdos de responsabilidad y entrega de equipos. | ☐ |
+| **A** | **TEC** | Configuración de VPN, MFA y cifrado de soportes. | ☐ |
+| **A** | **TEC** | Gestión de privilegios mínimos y aplicaciones permitidas en remoto. | ☐ |
+| **A** | **TEC** | Planificación y verificación de backups en dispositivos remotos. | ☐ |
+| **B** | **PER** | Uso preferente de dispositivos corporativos y redes seguras (evitar WiFi público). | ☐ |
+| **A** | **PRO** | Cumplimiento legal LOPDGDD y formación específica en privacidad. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!WARNING]
