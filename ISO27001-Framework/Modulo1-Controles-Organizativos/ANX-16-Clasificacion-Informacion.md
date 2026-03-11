@@ -1,4 +1,4 @@
-# ANX-16: Clasificación de la Información
+# Anexo 16: Clasificación de la Información
 
 ## 🎯 Objetivo
 Clasificar los activos de información de la organización para garantizar una gestión de seguridad eficaz, basada en los pilares de **Confidencialidad, Integridad y Disponibilidad (CID)**.
