@@ -62,3 +62,5 @@ IT mantendrá un listado de software validado para tareas de cifrado (ej. BitLoc
 | **B** | **TEC** | Selección y revisión de algoritmos de cifrado (AES, RSA, ECC). | ☐ |
 | **B** | **TEC** | Mantenimiento del inventario de software criptográfico autorizado. | ☐ |
 |
+**Revisado por:** ___________________________  
+**Fecha:** __________
