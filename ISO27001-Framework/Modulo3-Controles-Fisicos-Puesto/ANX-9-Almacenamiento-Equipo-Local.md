@@ -26,12 +26,15 @@ Para optimizar el rendimiento y la seguridad del almacenamiento local, se establ
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Regulación del tipo de información permitida en equipos corporativos. | [ ] |
-| **B** | **PRO** | Instrucción a empleados sobre la ruta oficial de guardado de archivos. | [ ] |
-| **B** | **PRO** | Definición de tiempos de conservación antes de migración o eliminación. | [ ] |
-| **A** | **PRO/TEC** | Control de permanencia de datos duplicados tras la migración al servidor. | [ ] |
-| **A** | **TEC/PER** | Aplicación de cifrado en información crítica almacenada localmente. | [ ] |
-| **B** | **PER** | Verificación del conocimiento y aplicación de la normativa por el personal. | [ ] |
+| **B** | **PRO** | Regulación del tipo de información permitida en equipos corporativos. | ☐ |
+| **B** | **PRO** | Instrucción a empleados sobre la ruta oficial de guardado de archivos. | ☐ |
+| **B** | **PRO** | Definición de tiempos de conservación antes de migración o eliminación. | ☐ |
+| **A** | **PRO/TEC** | Control de permanencia de datos duplicados tras la migración al servidor. | ☐ |
+| **A** | **TEC/PER** | Aplicación de cifrado en información crítica almacenada localmente. | ☐ |
+| **B** | **PER** | Verificación del conocimiento y aplicación de la normativa por el personal. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!NOTE]
