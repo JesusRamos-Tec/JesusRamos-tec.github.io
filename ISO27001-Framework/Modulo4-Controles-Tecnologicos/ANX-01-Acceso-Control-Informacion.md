@@ -1,4 +1,4 @@
-# ANX-01: Acceso y Control a la Información
+# Anexo 01: Acceso y Control a la Información
 
 ## 🎯 Objetivo
 Determinar de manera precisa quién, cómo y cuándo se accede a los activos de información de la organización, garantizando que dichos accesos queden debidamente registrados y autorizados.
@@ -52,14 +52,17 @@ Al finalizar la relación con la organización, se ejecutarán de inmediato las 
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Definición de roles y grupos según el tipo de información. | [ ] |
-| **B** | **PRO** | Aplicación de la política de asignación de mínimos privilegios. | [ ] |
-| **B** | **TEC** | Procedimiento formal de gestión de identidades (Altas/Bajas). | [ ] |
-| **B** | **TEC** | Gestión específica y segura de cuentas de administración. | [ ] |
-| **A** | **TEC** | Implantación de mecanismos de autenticación multifactor (MFA). | [ ] |
-| **A** | **TEC** | Registro de eventos y logs de acceso a la información. | [ ] |
-| **B** | **TEC** | Revisión periódica de permisos concedidos a usuarios. | [ ] |
-| **B** | **TEC** | Revocación inmediata de accesos tras fin de contrato. | [ ] |
+| **B** | **PRO** | Definición de roles y grupos según el tipo de información. | ☐ |
+| **B** | **PRO** | Aplicación de la política de asignación de mínimos privilegios. | ☐ |
+| **B** | **TEC** | Procedimiento formal de gestión de identidades (Altas/Bajas). | ☐ |
+| **B** | **TEC** | Gestión específica y segura de cuentas de administración. | ☐ |
+| **A** | **TEC** | Implantación de mecanismos de autenticación multifactor (MFA). | ☐ |
+| **A** | **TEC** | Registro de eventos y logs de acceso a la información. | ☐ |
+| **B** | **TEC** | Revisión periódica de permisos concedidos a usuarios. | ☐ |
+| **B** | **TEC** | Revocación inmediata de accesos tras fin de contrato. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!TIP]
