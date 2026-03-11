@@ -41,12 +41,12 @@ Una vez clasificada la información, se aplican los controles técnicos correspo
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Elaboración del inventario detallado de activos de información. | [ ] |
-| **B** | **PRO** | Definición de criterios de seguridad para la clasificación. | [ ] |
-| **B** | **PRO** | Etiquetado de activos según los criterios establecidos. | [ ] |
-| **B** | **PRO** | Listado de tratamientos de seguridad disponibles en la empresa. | [ ] |
-| **A** | **TEC** | Aplicación técnica de tratamientos (Cifrado, ACLs, Backups). | [ ] |
-| **A** | **TEC** | Realización de auditorías de comprobación periódicas (Cada: __________). | [ ] |
+| **B** | **PRO** | Elaboración del inventario detallado de activos de información. | ☐ |
+| **B** | **PRO** | Definición de criterios de seguridad para la clasificación. | ☐ |
+| **B** | **PRO** | Etiquetado de activos según los criterios establecidos. | ☐ |
+| **B** | **PRO** | Listado de tratamientos de seguridad disponibles en la empresa. | ☐ |
+| **A** | **TEC** | Aplicación técnica de tratamientos (Cifrado, ACLs, Backups). | ☐ |
+| **A** | **TEC** | Realización de auditorías de comprobación periódicas (Cada: __________). | ☐ |
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
