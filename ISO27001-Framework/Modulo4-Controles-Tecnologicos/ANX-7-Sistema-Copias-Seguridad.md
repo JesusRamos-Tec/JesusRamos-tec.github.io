@@ -1,4 +1,4 @@
-# ANX-07: Sistema de Copias de Seguridad (Backup)
+# Anexo 07: Sistema de Copias de Seguridad (Backup)
 
 ## 🎯 Objetivo
 Garantizar la disponibilidad e integridad de la información crítica mediante procedimientos de respaldo eficaces que aseguren la continuidad del negocio ante incidentes o desastres.
@@ -37,15 +37,18 @@ Se emplearán, según la necesidad técnica, los siguientes métodos:
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Mantenimiento del inventario de activos críticos para el negocio. | [ ] |
-| **B** | **PRO** | Control estricto de acceso a los repositorios de backup. | [ ] |
-| **B** | **PRO/TEC** | Definición de periodicidad y tipo de copia (Completa/Inc/Dif). | [ ] |
-| **A** | **PRO/TEC** | Almacenamiento externo y uso de cajas ignífugas bajo llave. | [ ] |
-| **B** | **PRO/TEC** | Procedimientos documentados de copia y restauración. | [ ] |
-| **B** | **TEC** | Verificación periódica de la fiabilidad de la restauración. | [ ] |
-| **B** | **TEC** | Registro y etiquetado de soportes físicos. | [ ] |
-| **B** | **TEC** | Destrucción segura de soportes desechados. | [ ] |
-| **B** | **PER/TEC** | Cifrado de backups confidenciales y copias en la nube. | [ ] |
+| **B** | **PRO** | Mantenimiento del inventario de activos críticos para el negocio. | ☐ |
+| **B** | **PRO** | Control estricto de acceso a los repositorios de backup. | ☐ |
+| **B** | **PRO/TEC** | Definición de periodicidad y tipo de copia (Completa/Inc/Dif). | ☐ |
+| **A** | **PRO/TEC** | Almacenamiento externo y uso de cajas ignífugas bajo llave. | ☐ |
+| **B** | **PRO/TEC** | Procedimientos documentados de copia y restauración. | ☐ |
+| **B** | **TEC** | Verificación periódica de la fiabilidad de la restauración. | ☐ |
+| **B** | **TEC** | Registro y etiquetado de soportes físicos. | ☐ |
+| **B** | **TEC** | Destrucción segura de soportes desechados. | ☐ |
+| **B** | **PER/TEC** | Cifrado de backups confidenciales y copias en la nube. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!IMPORTANT]
