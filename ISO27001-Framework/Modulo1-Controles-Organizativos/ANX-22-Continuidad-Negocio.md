@@ -1,4 +1,4 @@
-# ANX-22: Continuidad de Negocio (PCN)
+# Anexo 22: Continuidad de Negocio (PCN)
 
 ## 🎯 Objetivo
 Diseñar, implementar y probar un **Plan de Continuidad de Negocio (PCN)** que permita recuperar la operativa habitual de **Inespasa** en un plazo razonable tras un incidente grave, garantizando la supervivencia de la organización.
@@ -40,14 +40,17 @@ En caso de activar el PCN, se seguirá un flujo de responsabilidades estricto:
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Definición del alcance del PCN basado en activos críticos. | [ ] |
-| **B** | **PRO** | Establecimiento del flujo de responsabilidades en caso de desastre. | [ ] |
-| **A** | **PRO/TEC** | Elaboración detallada del Análisis de Impacto en el Negocio (BIA). | [ ] |
-| **B** | **PRO** | Política de comunicación y avisos a entidades externas. | [ ] |
-| **B** | **PRO** | Revisión y actualización del PCN (Caducidad: __________). | [ ] |
-| **A** | **PRO/TEC** | Definición de la estrategia de continuidad y centro de respaldo. | [ ] |
-| **A** | **PRO/TEC** | Documentación detallada de la respuesta ante contingencias. | [ ] |
-| **A** | **PRO/TEC** | Ejecución de pruebas y simulacros periódicos del plan. | [ ] |
+| **B** | **PRO** | Definición del alcance del PCN basado en activos críticos. | ☐ |
+| **B** | **PRO** | Establecimiento del flujo de responsabilidades en caso de desastre. | ☐ |
+| **A** | **PRO/TEC** | Elaboración detallada del Análisis de Impacto en el Negocio (BIA). | ☐ |
+| **B** | **PRO** | Política de comunicación y avisos a entidades externas. | ☐ |
+| **B** | **PRO** | Revisión y actualización del PCN (Caducidad: __________). | ☐ |
+| **A** | **PRO/TEC** | Definición de la estrategia de continuidad y centro de respaldo. | ☐ |
+| **A** | **PRO/TEC** | Documentación detallada de la respuesta ante contingencias. | ☐ |
+| **A** | **PRO/TEC** | Ejecución de pruebas y simulacros periódicos del plan. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!IMPORTANT]
