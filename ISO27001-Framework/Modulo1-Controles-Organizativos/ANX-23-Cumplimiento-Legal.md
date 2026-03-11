@@ -1,4 +1,4 @@
-# ANX-23: Cumplimiento Legal y Normativo
+# Anexo 23: Cumplimiento Legal y Normativo
 
 ## 🎯 Objetivo
 Garantizar que la organización identifica, documenta y cumple con todas las obligaciones legales, regulatorias y contractuales en materia de seguridad de la información y protección de datos personales.
@@ -29,14 +29,17 @@ Se establecen las responsabilidades y procedimientos para el tratamiento de dato
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **A** | **PRO** | Documentación de procedimientos para el cumplimiento de requisitos legales. | [ ] |
-| **B** | **PRO** | Control de adquisición, uso y eliminación legal de software corporativo. | [ ] |
-| **B** | **PRO** | Formalización de contratos con Encargados del Tratamiento (Art. 28 RGPD). | [ ] |
-| **B** | **PRO** | Registro de Actividades de Tratamiento (RAT) actualizado. | [ ] |
-| **B** | **PRO** | Protocolo de notificación de brechas de seguridad (Plazo 72h). | [ ] |
-| **A** | **TEC** | Implementación de medidas técnicas según análisis de riesgos de privacidad. | [ ] |
-| **B** | **PRO** | Auditoría de cumplimiento LSSI para comercio electrónico y cookies. | [ ] |
-| **B** | **PRO** | Vigilancia de derechos de propiedad industrial y marcas. | [ ] |
+| **A** | **PRO** | Documentación de procedimientos para el cumplimiento de requisitos legales. | ☐ |
+| **B** | **PRO** | Control de adquisición, uso y eliminación legal de software corporativo. | ☐ |
+| **B** | **PRO** | Formalización de contratos con Encargados del Tratamiento (Art. 28 RGPD). | ☐ |
+| **B** | **PRO** | Registro de Actividades de Tratamiento (RAT) actualizado. | ☐ |
+| **B** | **PRO** | Protocolo de notificación de brechas de seguridad (Plazo 72h). | ☐ |
+| **A** | **TEC** | Implementación de medidas técnicas según análisis de riesgos de privacidad. | ☐ |
+| **B** | **PRO** | Auditoría de cumplimiento LSSI para comercio electrónico y cookies. | ☐ |
+| **B** | **PRO** | Vigilancia de derechos de propiedad industrial y marcas. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 
