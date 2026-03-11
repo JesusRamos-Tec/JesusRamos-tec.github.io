@@ -48,6 +48,9 @@ Una vez clasificada la información, se aplican los controles técnicos correspo
 | **A** | **TEC** | Aplicación técnica de tratamientos (Cifrado, ACLs, Backups). | [ ] |
 | **A** | **TEC** | Realización de auditorías de comprobación periódicas (Cada: __________). | [ ] |
 
+**Revisado por:** ___________________________  
+**Fecha:** __________
+
 ---
 > [!TIP]
 > **Visión del Administrador:** En entornos Windows, esto se traduce habitualmente en la implementación de **FSRM** (File Server Resource Manager) para clasificar archivos automáticamente o el uso de **Azure Information Protection** para etiquetar documentos en la nube.
