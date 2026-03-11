@@ -1,7 +1,7 @@
 
 
 Bienvenido a mi base de conocimientos técnica.
-Aquí documento mis proyectos y laboratorios de infraestructura (con lo que encontrarás cosas a medias y que han explotado, jeje), ciberseguridad (cumplimiento normativo ISO27-001) y mis laboratorios del camino hacia la certificación **RHCSA**.
+Aquí documento mis proyectos y laboratorios de infraestructura (con lo que encontrarás cosas a medias y que han explotado, jeje), ciberseguridad (cumplimiento normativo ISO-27001:2022) y mis laboratorios del camino hacia la certificación **RHCSA**.
 
 ---
 
