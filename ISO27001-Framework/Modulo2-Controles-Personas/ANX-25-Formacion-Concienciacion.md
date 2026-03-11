@@ -1,4 +1,4 @@
-# ANX-25: Formación y Concienciación en Ciberseguridad
+# Anexo 25: Formación y Concienciación en Ciberseguridad
 
 ## 🎯 Objetivo
 Asegurar que todo el personal de la organización comprenda sus responsabilidades en materia de seguridad, entienda las amenazas actuales y aplique las normas de protección para minimizar los riesgos tecnológicos.
@@ -35,12 +35,15 @@ El objetivo final es promover un entorno donde la seguridad sea una prioridad co
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Difusión y accesibilidad de la política de seguridad corporativa. | [ ] |
-| **B** | **PRO** | Elaboración y revisión del Plan de Formación anual. | [ ] |
-| **B** | **PRO** | Desarrollo de programas específicos por rol (Técnico vs Administrativo). | [ ] |
-| **B** | **PRO** | Registro de asistencia a cursos o charlas (Cada: __________). | [ ] |
-| **B** | **PRO** | Evaluación del aprendizaje mediante cuestionarios o simulacros. | [ ] |
-| **B** | **PRO** | Promoción activa de la cultura de seguridad en toda la organización. | [ ] |
+| **B** | **PRO** | Difusión y accesibilidad de la política de seguridad corporativa. | ☐ |
+| **B** | **PRO** | Elaboración y revisión del Plan de Formación anual. | ☐ |
+| **B** | **PRO** | Desarrollo de programas específicos por rol (Técnico vs Administrativo). | ☐ |
+| **B** | **PRO** | Registro de asistencia a cursos o charlas (Cada: __________). | ☐ |
+| **B** | **PRO** | Evaluación del aprendizaje mediante cuestionarios o simulacros. | ☐ |
+| **B** | **PRO** | Promoción activa de la cultura de seguridad en toda la organización. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!TIP]
