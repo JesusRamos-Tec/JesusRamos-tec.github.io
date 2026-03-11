@@ -1,4 +1,4 @@
-# ANX-28: Plan de Seguridad (PDS)
+# Anexo 28: Plan de Seguridad (PDS)
 
 ## 🎯 Objetivo
 Planificar y ejecutar los proyectos técnicos, organizativos y legales necesarios para proteger la información de **Inespasa**, alineando la ciberseguridad con los objetivos estratégicos y el crecimiento de la organización.
@@ -41,13 +41,16 @@ Un Plan de Seguridad es un documento vivo. Su éxito depende de una ejecución r
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **A** | **PRO** | Análisis detallado de la situación inicial de ciberseguridad. | [ ] |
-| **A** | **PRO** | Alineación del PDS con la estrategia de crecimiento de Inespasa. | [ ] |
-| **A** | **PRO** | Definición técnica y organizativa de los proyectos a ejecutar. | [ ] |
-| **A** | **PRO** | Clasificación y priorización de proyectos por impacto/coste. | [ ] |
-| **B** | **PRO** | Aprobación oficial y publicación del Plan de Seguridad. | [ ] |
-| **A** | **PRO** | Ejecución activa de los proyectos y seguimiento de hitos. | [ ] |
-| **A** | **PRO** | Evaluación de certificación oficial (ISO 27001). | [ ] |
+| **A** | **PRO** | Análisis detallado de la situación inicial de ciberseguridad. | ☐ |
+| **A** | **PRO** | Alineación del PDS con la estrategia de crecimiento de Inespasa. | ☐ |
+| **A** | **PRO** | Definición técnica y organizativa de los proyectos a ejecutar. | ☐ |
+| **A** | **PRO** | Clasificación y priorización de proyectos por impacto/coste. | ☐ |
+| **B** | **PRO** | Aprobación oficial y publicación del Plan de Seguridad. | ☐ |
+| **A** | **PRO** | Ejecución activa de los proyectos y seguimiento de hitos. | ☐ |
+| **A** | **PRO** | Evaluación de certificación oficial (ISO 27001). | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!TIP]
