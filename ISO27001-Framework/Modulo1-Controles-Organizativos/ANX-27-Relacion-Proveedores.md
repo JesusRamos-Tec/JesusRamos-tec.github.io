@@ -1,4 +1,4 @@
-# ANX-27: Relación con Proveedores
+# Anexo 27: Relación con Proveedores
 
 ## 🎯 Objetivo
 Garantizar que la información de **Inespasa** permanezca protegida cuando terceros acceden a ella, asegurando que todos los productos y servicios contratados cumplen con nuestros estándares de ciberseguridad antes, durante y después de la relación contractual.
@@ -44,13 +44,16 @@ Al terminar una relación contractual, se deben ejecutar acciones de limpieza ob
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Definición de requisitos mínimos de seguridad para proveedores. | [ ] |
-| **A** | **PRO** | Elaboración de cláusulas contractuales específicas de ciberseguridad. | [ ] |
-| **B** | **PRO** | Delimitación de responsabilidades legales por ambas partes. | [ ] |
-| **B** | **PRO** | Establecimiento y seguimiento de los ANS (SLA) técnicos. | [ ] |
-| **B** | **PRO** | Verificación de certificaciones ISO 27001 / 22301 del proveedor. | [ ] |
-| **B** | **PRO** | Auditoría y control periódico de los servicios contratados. | [ ] |
-| **B** | **PRO** | Procedimiento de baja y borrado de datos al finalizar contratos. | [ ] |
+| **B** | **PRO** | Definición de requisitos mínimos de seguridad para proveedores. | ☐ |
+| **A** | **PRO** | Elaboración de cláusulas contractuales específicas de ciberseguridad. | ☐ |
+| **B** | **PRO** | Delimitación de responsabilidades legales por ambas partes. | ☐ |
+| **B** | **PRO** | Establecimiento y seguimiento de los ANS (SLA) técnicos. | ☐ |
+| **B** | **PRO** | Verificación de certificaciones ISO 27001 / 22301 del proveedor. | ☐ |
+| **B** | **PRO** | Auditoría y control periódico de los servicios contratados. | ☐ |
+| **B** | **PRO** | Procedimiento de baja y borrado de datos al finalizar contratos. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!IMPORTANT]
