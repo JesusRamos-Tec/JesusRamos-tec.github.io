@@ -1,4 +1,4 @@
-# ANX-26: Gestión de Recursos Humanos y Seguridad
+# Anexo 26: Gestión de Recursos Humanos y Seguridad
 
 ## 🎯 Objetivo
 Garantizar que los empleados y contratistas comprenden sus responsabilidades y son aptos para las funciones para las que son considerados, protegiendo los activos de la organización antes, durante y después de la relación laboral.
@@ -40,14 +40,17 @@ Garantizar que los empleados y contratistas comprenden sus responsabilidades y s
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Inclusión de cláusulas de ciberseguridad en contratos laborales. | [ ] |
-| **B** | **PRO** | Firma de acuerdos de confidencialidad por empleados y terceros. | [ ] |
-| **B** | **PRO** | Proceso de verificación de antecedentes para puestos críticos. | [ ] |
-| **B** | **PRO** | Definición y comunicación de la política de sanciones. | [ ] |
-| **B** | **PRO** | Procedimiento formal de comunicación de fin de contrato. | [ ] |
-| **B** | **TEC** | Revocación sistemática de permisos y cuentas de usuario. | [ ] |
-| **B** | **PER** | Aceptación y firma de las políticas de seguridad de la organización. | [ ] |
-| **B** | **PER** | Participación y aprovechamiento de sesiones formativas. | [ ] |
+| **B** | **PRO** | Inclusión de cláusulas de ciberseguridad en contratos laborales. | ☐ |
+| **B** | **PRO** | Firma de acuerdos de confidencialidad por empleados y terceros. | ☐ |
+| **B** | **PRO** | Proceso de verificación de antecedentes para puestos críticos. | ☐ |
+| **B** | **PRO** | Definición y comunicación de la política de sanciones. | ☐ |
+| **B** | **PRO** | Procedimiento formal de comunicación de fin de contrato. | ☐ |
+| **B** | **TEC** | Revocación sistemática de permisos y cuentas de usuario. | ☐ |
+| **B** | **PER** | Aceptación y firma de las políticas de seguridad de la organización. | ☐ |
+| **B** | **PER** | Participación y aprovechamiento de sesiones formativas. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!WARNING]
