@@ -1,4 +1,4 @@
-# ANX-02: Política de Contraseñas
+# Anexo 02: Política de Contraseñas
 
 ## 🎯 Objetivo
 Establecer, difundir y verificar el cumplimiento de las buenas prácticas en el uso de credenciales para garantizar que el acceso a los sistemas de la organización sea seguro y robusto.
@@ -50,14 +50,17 @@ La seguridad depende directamente del comportamiento del personal:
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **A** | **PRO/TEC** | Sistema avanzado de gestión del ciclo de vida de claves. | [ ] |
-| **A** | **PRO/TEC** | Uso de sistemas de autenticación externos descentralizados. | [ ] |
-| **A** | **TEC** | Herramientas técnicas para forzar la seguridad (GPO/AD). | [ ] |
-| **B** | **TEC** | Cambio obligatorio de contraseñas por defecto. | [ ] |
-| **B** | **TEC** | Implementación de Doble Factor en servicios críticos. | [ ] |
-| **B** | **PER** | Prohibición de compartir credenciales. | [ ] |
-| **B** | **PER** | Creación de contraseñas siguiendo criterios de robustez. | [ ] |
-| **B** | **PER** | Rotación periódica de contraseñas cada __________. | [ ] |
-| **B** | **PER** | Uso de gestores de contraseñas oficiales de la empresa. | [ ] |
+| **A** | **PRO/TEC** | Sistema avanzado de gestión del ciclo de vida de claves. | ☐ |
+| **A** | **PRO/TEC** | Uso de sistemas de autenticación externos descentralizados. | ☐ |
+| **A** | **TEC** | Herramientas técnicas para forzar la seguridad (GPO/AD). | ☐ |
+| **B** | **TEC** | Cambio obligatorio de contraseñas por defecto. | ☐ |
+| **B** | **TEC** | Implementación de Doble Factor en servicios críticos. | ☐ |
+| **B** | **PER** | Prohibición de compartir credenciales. | ☐ |
+| **B** | **PER** | Creación de contraseñas siguiendo criterios de robustez. | ☐ |
+| **B** | **PER** | Rotación periódica de contraseñas cada __________. | ☐ |
+| **B** | **PER** | Uso de gestores de contraseñas oficiales de la empresa. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
