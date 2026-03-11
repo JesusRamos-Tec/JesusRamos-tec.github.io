@@ -1,4 +1,4 @@
-# ANX-24: Gestión de Logs y Monitorización
+# Anexo 24: Gestión de Logs y Monitorización
 
 ## 🎯 Objetivo
 Determinar los eventos significativos dentro de los sistemas de información que deben ser registrados y establecer mecanismos de monitorización que permitan la detección temprana de intrusiones, errores o comportamientos anómalos.
@@ -37,13 +37,16 @@ Cada registro generado debe incluir, como mínimo, la siguiente información par
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Definición de actividades críticas sujetas a registro. | [ ] |
-| **B** | **PRO** | Determinación de la información relevante a incluir en cada log. | [ ] |
-| **B** | **PRO** | Estandarización del formato de logs para análisis posterior. | [ ] |
-| **A** | **TEC** | Selección e implementación del mecanismo de registro centralizado. | [ ] |
-| **B** | **TEC** | Medidas de protección y cifrado del almacenamiento de logs. | [ ] |
-| **B** | **TEC** | Sincronización horaria (NTP) en todos los nodos de la red. | [ ] |
-| **B** | **TEC** | Configuración de alertas en tiempo real ante comportamientos anómalos. | [ ] |
+| **B** | **PRO** | Definición de actividades críticas sujetas a registro. | ☐ |
+| **B** | **PRO** | Determinación de la información relevante a incluir en cada log. | ☐ |
+| **B** | **PRO** | Estandarización del formato de logs para análisis posterior. | ☐ |
+| **A** | **TEC** | Selección e implementación del mecanismo de registro centralizado. | ☐ |
+| **B** | **TEC** | Medidas de protección y cifrado del almacenamiento de logs. | ☐ |
+| **B** | **TEC** | Sincronización horaria (NTP) en todos los nodos de la red. | ☐ |
+| **B** | **TEC** | Configuración de alertas en tiempo real ante comportamientos anómalos. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 
