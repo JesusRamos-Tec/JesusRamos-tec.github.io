@@ -1,6 +1,22 @@
-# 📑 Framework de Controles ISO 27001:2022
+# 📑 Framework de Controles ISO 27001:2022 (Ninja Mode 🥷)
 
 Este directorio contiene la documentación detallada de los 29 anexos de seguridad implementados, organizados en cuatro módulos operativos para facilitar su gestión y consulta técnica.
+
+---
+
+## 🛠️ Metodología de Clasificación
+Para cada control se han definido niveles de complejidad y alcances de aplicación:
+
+### 📊 Niveles de Implementación
+* **Básico (B):** Medidas esenciales aplicables mediante funciones nativas o herramientas de configuración sencilla.
+* **Avanzado (A):** Medidas que requieren software específico, configuraciones complejas y planes de recuperación.
+
+### 🎯 Alcance del Control
+| Siglas | Alcance | Descripción |
+| :--- | :--- | :--- |
+| **PRO** | **Procesos** | Orientado a la dirección, gestión y cumplimiento legal. |
+| **TEC** | **Tecnologías** | Orientado específicamente al personal técnico y Administradores de Sistemas. |
+| **PER** | **Personas** | Controles transversales que afectan a todo el personal de la organización. |
 
 ---
 
