@@ -1,4 +1,4 @@
-# ANX-11: Almacenamiento en Dispositivos Extraíbles
+# Anexo 11: Almacenamiento en Dispositivos Extraíbles
 
 ## 🎯 Objetivo
 Establecer normas de uso para los dispositivos extraíbles que garanticen la seguridad de la información corporativa y la integridad de los sistemas a los que se conectan.
@@ -40,15 +40,17 @@ Para reducir el riesgo de pérdida de datos o infección por malware, se fomenta
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Elaboración de la normativa de almacenamiento en dispositivos extraíbles. | [ ] |
-| **B** | **PRO** | Plan de concienciación de empleados sobre riesgos de medios físicos. | [ ] |
-| **B** | **PRO/TEC** | Implementación de alternativas (Clouds autorizados, repositorios comunes). | [ ] |
-| **B** | **TEC** | Registro actualizado de usuarios, dispositivos y privilegios de acceso. | [ ] |
-| **B** | **TEC** | Medidas técnicas de cifrado y autenticación en el propio dispositivo. | [ ] |
-| **B** | **TEC** | Bloqueo de dispositivos no autorizados y deshabilitación de autoarranque (Autorun). | [ ] |
-| **B** | **TEC** | Cifrado y control de acceso sobre los documentos transferidos. | [ ] |
-| **B** | **PER** | Conocimiento y aceptación formal de la normativa por parte del personal. | [ ] |
+| **B** | **PRO** | Elaboración de la normativa de almacenamiento en dispositivos extraíbles. | ☐ |
+| **B** | **PRO** | Plan de concienciación de empleados sobre riesgos de medios físicos. | ☐ |
+| **B** | **PRO/TEC** | Implementación de alternativas (Clouds autorizados, repositorios comunes). | ☐ |
+| **B** | **TEC** | Registro actualizado de usuarios, dispositivos y privilegios de acceso. | ☐ |
+| **B** | **TEC** | Medidas técnicas de cifrado y autenticación en el propio dispositivo. | ☐ |
+| **B** | **TEC** | Bloqueo de dispositivos no autorizados y deshabilitación de autoarranque (Autorun). | ☐ |
+| **B** | **TEC** | Cifrado y control de acceso sobre los documentos transferidos. | ☐ |
+| **B** | **PER** | Conocimiento y aceptación formal de la normativa por parte del personal. | ☐ |
 
+**Revisado por:** ___________________________  
+**Fecha:** __________
 ---
 > [!NOTE]
 > **Nota del Administrador:** La concienciación es el control más barato y efectivo. Un empleado que entiende que un USB encontrado en el parking es un riesgo potencial, es la mejor barrera contra el malware.
