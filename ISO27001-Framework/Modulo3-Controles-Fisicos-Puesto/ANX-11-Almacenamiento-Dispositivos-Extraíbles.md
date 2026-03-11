@@ -51,6 +51,7 @@ Para reducir el riesgo de pérdida de datos o infección por malware, se fomenta
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
 ---
 > [!NOTE]
 > **Nota del Administrador:** La concienciación es el control más barato y efectivo. Un empleado que entiende que un USB encontrado en el parking es un riesgo potencial, es la mejor barrera contra el malware.
