@@ -1,4 +1,4 @@
-# ANX-21: Respuesta a Incidentes de Seguridad
+# Anexo 21: Respuesta a Incidentes de Seguridad
 
 ## 🎯 Objetivo
 Garantizar que la organización cuenta con un procedimiento rápido, eficaz y documentado para actuar ante cualquier incidente de seguridad, minimizando el impacto y evitando su repetición en el futuro.
@@ -42,14 +42,17 @@ En caso de que el incidente suponga una **brecha de seguridad de datos personale
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO** | Designación del equipo responsable de gestión de incidentes. | [ ] |
-| **B** | **PRO** | Proceso de Mejora Continua basado en lecciones aprendidas. | [ ] |
-| **B** | **PRO** | Revisión periódica del plan de gestión (Caducidad: __________). | [ ] |
-| **B** | **TEC** | Definición de criterios para la detección y evaluación de incidentes. | [ ] |
-| **B** | **TEC** | Protocolo de notificación interna y externa. | [ ] |
-| **A** | **TEC** | Procedimientos detallados de resolución por tipología de incidente. | [ ] |
-| **B** | **TEC** | Registro sistemático de toda la gestión del incidente. | [ ] |
-| **B** | **PRO** | Cumplimiento del RGPD en notificaciones de brechas de privacidad. | [ ] |
+| **B** | **PRO** | Designación del equipo responsable de gestión de incidentes. | ☐ |
+| **B** | **PRO** | Proceso de Mejora Continua basado en lecciones aprendidas. | ☐ |
+| **B** | **PRO** | Revisión periódica del plan de gestión (Caducidad: __________). | ☐ |
+| **B** | **TEC** | Definición de criterios para la detección y evaluación de incidentes. | ☐ |
+| **B** | **TEC** | Protocolo de notificación interna y externa. | ☐ |
+| **A** | **TEC** | Procedimientos detallados de resolución por tipología de incidente. | ☐ |
+| **B** | **TEC** | Registro sistemático de toda la gestión del incidente. | ☐ |
+| **B** | **PRO** | Cumplimiento del RGPD en notificaciones de brechas de privacidad. | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!TIP]
