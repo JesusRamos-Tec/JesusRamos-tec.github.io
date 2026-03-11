@@ -1,4 +1,4 @@
-# ANX-04: Acceso desde Redes no Corporativas
+# Anexo 04: Acceso desde Redes no Corporativas
 
 ## 🎯 Objetivo
 Garantizar la seguridad de los activos y las comunicaciones de **Inespasa** cuando el acceso se realiza desde redes externas (domésticas, públicas o móviles), mitigando los riesgos de interceptación o intrusión.
@@ -42,13 +42,16 @@ Si se autoriza el uso de ordenadores personales, el usuario asume la responsabil
 
 | NIVEL | ALCANCE | CONTROL DE SEGURIDAD | ESTADO |
 | :---: | :---: | :--- | :---: |
-| **B** | **PRO/TEC** | Elaboración de la normativa para conexiones externas. | [ ] |
-| **A** | **TEC** | Configuración de VPN con MFA y timeout de inactividad. | [ ] |
-| **B** | **PER** | Formación en el uso correcto y situaciones de uso de la VPN. | [ ] |
-| **B** | **PER** | Verificación de protocolos seguros (WPA2/HTTPS) en redes ajenas. | [ ] |
-| **A** | **PER** | Auditoría de configuración segura en Wi-Fi domésticas (SSID/Pass). | [ ] |
-| **B** | **PER** | Gestión selectiva de antenas (BT/Wi-Fi) en dispositivos móviles. | [ ] |
-| **B** | **PER** | Cumplimiento de políticas BYOD (Equipos personales). | [ ] |
+| **B** | **PRO/TEC** | Elaboración de la normativa para conexiones externas. | ☐ |
+| **A** | **TEC** | Configuración de VPN con MFA y timeout de inactividad. | ☐ |
+| **B** | **PER** | Formación en el uso correcto y situaciones de uso de la VPN. | ☐ |
+| **B** | **PER** | Verificación de protocolos seguros (WPA2/HTTPS) en redes ajenas. | ☐ |
+| **A** | **PER** | Auditoría de configuración segura en Wi-Fi domésticas (SSID/Pass). | ☐ |
+| **B** | **PER** | Gestión selectiva de antenas (BT/Wi-Fi) en dispositivos móviles. | ☐ |
+| **B** | **PER** | Cumplimiento de políticas BYOD (Equipos personales). | ☐ |
+
+**Revisado por:** ___________________________  
+**Fecha:** __________
 
 ---
 > [!WARNING]
