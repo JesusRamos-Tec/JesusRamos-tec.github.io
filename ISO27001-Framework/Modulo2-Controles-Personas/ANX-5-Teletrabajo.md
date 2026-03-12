@@ -56,5 +56,11 @@ Priorizamos el control sobre el hardware para asegurar el cumplimiento de las po
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!WARNING]
 > **Regla de Oro de IT:** Ante la duda sobre la seguridad de una red WiFi doméstica o pública, utiliza siempre el punto de acceso móvil (4G/5G) de tu dispositivo corporativo.
