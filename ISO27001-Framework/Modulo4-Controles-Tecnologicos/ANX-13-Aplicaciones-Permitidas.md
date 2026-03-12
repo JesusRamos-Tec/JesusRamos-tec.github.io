@@ -47,3 +47,11 @@ IT gestionará un repositorio seguro donde se almacenen los instaladores origina
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
