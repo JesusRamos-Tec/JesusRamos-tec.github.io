@@ -53,3 +53,11 @@ Todo empleado debe extremar la precaución y sospechar de mensajes que presenten
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
