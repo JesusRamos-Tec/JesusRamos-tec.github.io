@@ -9,7 +9,7 @@ Bienvenido a mi base de conocimientos personal. Aquí documento mis proyectos, l
 ## 🚀 Proyectos Destacados
 
 ### 🛡️ Ciberseguridad & Compliance
-- **[ISO 27001:2022 Framework](./01-ISO27001-Framework/)**: Despliegue de los 29 anexos de seguridad (SGSI) organizados por módulos operativos.
+- **[ISO 27001:2022 Framework](./ISO27001-Framework/)**: Despliegue de los 29 anexos de seguridad (SGSI) organizados por módulos operativos.
 - **[Monitorización con Wazuh](./manual-wazuh.md)**: Despliegue de SIEM en entornos críticos y gestión de alertas.
 
 ### 🏗️ Infraestructura & Networking
