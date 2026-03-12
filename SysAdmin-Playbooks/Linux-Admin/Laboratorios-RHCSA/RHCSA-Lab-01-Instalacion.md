@@ -28,6 +28,7 @@ Se aplica un particionado manual basado en **Logical Volume Management (LVM)** p
 | `/` | 37 GiB | LV en `rhel_rhca-node01` | XFS |
 
 
+
 ![Configuración de la VM en Proxmox](./img-lab-01-instalacion/04.png)
 
 *Esquema final de volúmenes lógicos antes de comenzar la instalación.*
