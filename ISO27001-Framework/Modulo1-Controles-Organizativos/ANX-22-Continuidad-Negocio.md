@@ -53,5 +53,11 @@ En caso de activar el PCN, se seguirá un flujo de responsabilidades estricto:
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!IMPORTANT]
 > **La regla de oro:** Un plan de continuidad que no se prueba, no es un plan; es una lista de deseos. Los simulacros periódicos son obligatorios para garantizar que el equipo sabe reaccionar bajo presión.
