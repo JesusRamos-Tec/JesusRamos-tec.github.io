@@ -4,6 +4,8 @@ Este manual documenta el proceso detallado de instalación, configuración inici
 
 ## 🏗️ Entorno del Laboratorio
 El despliegue se realiza sobre un nodo de virtualización **Proxmox VE 9.0.3** ejecutándose en un hardware **BMAX Pro** con 32GB de RAM y 1TB de disco duro.
+![Configuración de la VM en Proxmox](./img/01.png)
+*Configuración detallada de la VM incluyendo Qemu Agent y tipo de CPU Host*
 
 ### Especificaciones de la VM (rhca-labs)
 * **CPU**: 1 Socket / 2 Cores (Tipo: Host para acceso real al microprocesador).
