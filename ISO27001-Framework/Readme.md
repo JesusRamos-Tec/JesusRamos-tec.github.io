@@ -73,7 +73,6 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 * [Anexo 29: Técnicas Criptográficas](./Modulo4-Controles-Tecnologicos/ANX-29-Tecnicas-Criptograficas.md) 🔐
 
 ---
----
 ## ⬅️ Navegación
 [Volver al Índice Principal](https://jesusramos-tec.github.io/)
 ---
