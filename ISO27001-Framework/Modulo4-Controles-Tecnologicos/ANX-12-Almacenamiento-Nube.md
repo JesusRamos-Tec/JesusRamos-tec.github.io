@@ -53,3 +53,10 @@ Se debe evaluar la estrategia de **Backup Cloud-to-Cloud** o **Cloud-to-OnPremis
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
