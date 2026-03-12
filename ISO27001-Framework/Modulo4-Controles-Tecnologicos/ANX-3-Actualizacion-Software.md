@@ -48,3 +48,11 @@ Toda actualización relevante quedará documentada en el **Registro de Cambios**
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
