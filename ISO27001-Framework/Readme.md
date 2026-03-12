@@ -1,3 +1,5 @@
+
+
 # 📑 Framework de Controles ISO 27001:2022
 
 Este directorio contiene la documentación detallada de los 29 anexos de seguridad implementados, organizados en cuatro módulos operativos para facilitar su gestión y consulta técnica.
