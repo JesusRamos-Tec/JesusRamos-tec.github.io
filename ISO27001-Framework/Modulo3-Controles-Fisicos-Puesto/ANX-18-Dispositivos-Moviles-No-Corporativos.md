@@ -62,3 +62,11 @@ Ante la pérdida de un dispositivo vinculado a la red corporativa, se activarán
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
