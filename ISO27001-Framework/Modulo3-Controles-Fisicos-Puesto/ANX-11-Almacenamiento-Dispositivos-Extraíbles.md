@@ -53,5 +53,11 @@ Para reducir el riesgo de pérdida de datos o infección por malware, se fomenta
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!NOTE]
 > **Nota del Administrador:** La concienciación es el control más barato y efectivo. Un empleado que entiende que un USB encontrado en el parking es un riesgo potencial, es la mejor barrera contra el malware.
