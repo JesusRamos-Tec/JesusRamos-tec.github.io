@@ -49,3 +49,11 @@ Toda información almacenada en la red corporativa está integrada en el **Plan 
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
