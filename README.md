@@ -18,7 +18,7 @@ Bienvenido a mi base de conocimientos personal. Aquí documento mis proyectos, l
 
 ### 🐧 Laboratorio Linux (Road to RHCSA)
 - **[Automatización con Ansible](./ansible.md)**: Gestión de infraestructura como código y automatización de tareas.
-- **[Administración RHEL](./SysAdmin-Playbooks/Linux-Admin)**: Notas de estudio y laboratorios prácticos para la certificación.
+- **[Administración RHEL](./SysAdmin-Playbooks/Linux-Admin/Laboratorios-RHCSA)**: Notas de estudio y laboratorios prácticos para la certificación.
 
 ---
 
