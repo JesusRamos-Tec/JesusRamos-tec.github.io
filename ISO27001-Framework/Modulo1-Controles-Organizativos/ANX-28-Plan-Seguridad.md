@@ -53,5 +53,11 @@ Un Plan de Seguridad es un documento vivo. Su éxito depende de una ejecución r
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!TIP]
 > **Visión del SysAdmin:** El PDS es tu hoja de ruta. Utiliza herramientas como **Jira** o **Project** para el seguimiento de los hitos técnicos y asegúrate de que cada cambio en la infraestructura esté reflejado en la revisión anual del plan.
