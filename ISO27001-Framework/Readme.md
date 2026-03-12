@@ -46,10 +46,10 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 *Protección de activos físicos y entornos de trabajo locales.*
 
 * [Anexo 06: Protección del Puesto de Trabajo](./Modulo3-Controles-Fisicos-Puesto/ANX-06-Proteccion-Puesto-Trabajo.md)
-* [Anexo 09: Almacenamiento (equipo local)](./Modulo3-Controles-Fisicos-Puesto/ANX-09-Almacenamiento-Local.md)
-* [Anexo 11: Almacenamiento (dispositivos extraíbles)](./Modulo3-Controles-Fisicos-Puesto/ANX-11-Almacenamiento-Extraibles.md)
-* [Anexo 17: Dispositivos móviles (corporativos)](./Modulo3-Controles-Fisicos-Puesto/ANX-17-Moviles-Corporativos.md)
-* [Anexo 18: Dispositivos móviles (no corporativos)](./Modulo3-Controles-Fisicos-Puesto/ANX-18-Moviles-No-Corporativos.md)
+* [Anexo 09: Almacenamiento (equipo local)](./Modulo3-Controles-Fisicos-Puesto/ANX-09-Almacenamiento-Equipo-Local.md)
+* [Anexo 11: Almacenamiento (dispositivos extraíbles)](./Modulo3-Controles-Fisicos-Puesto/ANX-11-Almacenamiento-Dispositivos-Extraíbles.md)
+* [Anexo 17: Dispositivos móviles (corporativos)](./Modulo3-Controles-Fisicos-Puesto/ANX-17-Dispositivos-Moviles-Corporativos.md)
+* [Anexo 18: Dispositivos móviles (no corporativos)](./Modulo3-Controles-Fisicos-Puesto/ANX-18-Dispositivos-Moviles-No-Corporativos.md)
 
 ---
 
