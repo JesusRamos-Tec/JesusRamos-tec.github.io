@@ -64,3 +64,9 @@ La seguridad depende directamente del comportamiento del personal:
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
