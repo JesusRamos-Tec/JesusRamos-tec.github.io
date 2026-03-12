@@ -54,5 +54,11 @@ Si se autoriza el uso de ordenadores personales, el usuario asume la responsabil
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!WARNING]
 > **Aviso de IT:** El uso de redes Wi-Fi abiertas sin VPN corporativa queda terminantemente prohibido para el acceso a servidores internos o manejo de datos de clientes.
