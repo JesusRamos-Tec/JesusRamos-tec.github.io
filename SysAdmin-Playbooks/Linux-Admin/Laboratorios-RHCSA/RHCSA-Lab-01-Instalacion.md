@@ -14,7 +14,7 @@ El despliegue se realiza sobre un nodo de virtualización **Proxmox VE 9.0.3** e
 ---
 
 ## 💾 Gestión de Almacenamiento (LVM)
-[cite_start]Se aplica un particionado manual basado en **Logical Volume Management (LVM)** para garantizar flexibilidad en la gestión de volúmenes[cite: 5, 56, 57].
+Se aplica un particionado manual basado en **Logical Volume Management (LVM)** para garantizar flexibilidad en la gestión de volúmenes[cite: 5, 56, 57].
 
 | Punto de Montaje | Tamaño | Tipo / Volume Group | Sistema de Archivos |
 | :--- | :--- | :--- | :--- |
