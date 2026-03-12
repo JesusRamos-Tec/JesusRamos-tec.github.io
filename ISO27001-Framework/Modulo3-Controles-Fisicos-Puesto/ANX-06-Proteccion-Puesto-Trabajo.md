@@ -69,3 +69,11 @@ Es obligación de todo el personal notificar de inmediato cualquier anomalía, i
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
