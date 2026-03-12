@@ -24,7 +24,7 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 ## 🏛️ Módulo 1: Controles Organizativos
 *Gestión estratégica, legal y operativa de la seguridad.*
 
-* [Anexo 16: Clasificación de la información](Modulo1-Controles-Organizativos/Anexo-16-Clasificacion-Informacion.md)
+* [Anexo 16: Clasificación de la información](./Modulo1-Controles-Organizativos/Anexo-16-Clasificacion-Informacion.md)
 * [Anexo 21: Respuesta a Incidentes](Modulo1-Controles-Organizativos/Anexo-21-Respuesta-Incidentes.md)
 * [Anexo 22: Continuidad de Negocio](Modulo1-Controles-Organizativos/Anexo-22-Continuidad-Negocio.md)
 * [Anexo 23: Cumplimiento Legal](Modulo1-Controles-Organizativos/Anexo-23-Cumplimiento-Legal.md)
