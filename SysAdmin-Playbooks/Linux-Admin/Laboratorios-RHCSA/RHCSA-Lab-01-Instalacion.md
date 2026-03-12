@@ -13,6 +13,7 @@ El despliegue se realiza sobre un nodo de virtualización **Proxmox VE 9.0.3** e
 
 
 ![Configuración de la VM en Proxmox](./img-lab-01-instalacion/01.png)
+
 *Configuración detallada de la VM incluyendo Qemu Agent y tipo de CPU Host.*
 
 ---
@@ -28,6 +29,7 @@ Se aplica un particionado manual basado en **Logical Volume Management (LVM)** p
 
 
 ![Configuración de la VM en Proxmox](./img-lab-01-instalacion/04.png)
+
 *Esquema final de volúmenes lógicos antes de comenzar la instalación.*
 
 ---
@@ -41,8 +43,11 @@ Se ha optado por una **"Minimal Install"**. Esta selección instala únicamente 
 ![Instalación de paquetes exitosa](./img-lab-01-instalacion/07.png)
 
 
+
 ### 2. Registro y Actualización
 El sistema debe estar registrado en el portal de Red Hat para acceder a los repositorios oficiales y parches de seguridad.
+
+
 
 ![Validación de Red y SSH](./img-lab-01-instalacion/08.png)
 *Verificación de conectividad desde Windows PowerShell hacia el nodo RHEL.*
