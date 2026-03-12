@@ -59,3 +59,11 @@ Para plataformas como WordPress, Joomla o desarrollos a medida, se aplicarán la
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
