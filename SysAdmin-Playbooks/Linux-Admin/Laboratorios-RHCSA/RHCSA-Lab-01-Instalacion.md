@@ -10,7 +10,7 @@ El despliegue se realiza sobre un nodo de virtualización **Proxmox VE 9.0.3** e
 * **RAM**: 4GB (4096MB).
 * **Disco**: 40GB (VirtIO).
 * **Sistema**: Qemu Agent habilitado para gestión desde el hipervisor.
-[Enter]
+[enter]
 
 ![Configuración de la VM en Proxmox](./img-lab-01-instalacion/01.png) <br>
 *Configuración detallada de la VM incluyendo Qemu Agent y tipo de CPU Host.*
