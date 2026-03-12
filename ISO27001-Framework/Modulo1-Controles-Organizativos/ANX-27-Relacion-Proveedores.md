@@ -56,5 +56,11 @@ Al terminar una relación contractual, se deben ejecutar acciones de limpieza ob
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!IMPORTANT]
 > **Nota para el Administrador:** Especial atención a los proveedores de servicios Cloud y mantenimiento IT. Su acceso debe estar limitado por el principio de "mínimo privilegio" y ser siempre auditable mediante logs.
