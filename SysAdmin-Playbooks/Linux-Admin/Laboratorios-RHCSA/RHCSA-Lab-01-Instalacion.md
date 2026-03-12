@@ -1,20 +1,20 @@
 # 🐧 Lab 01: Instalación y Configuración Base de RHEL 9.7
 
-Este manual documenta el proceso detallado de instalación, configuración inicial y preparación del entorno de laboratorio para la certificación **RHCSA**[cite: 1, 38].
+Este manual documenta el proceso detallado de instalación, configuración inicial y preparación del entorno de laboratorio para la certificación **RHCSA**.
 
 ## 🏗️ Entorno del Laboratorio
-El despliegue se realiza sobre un nodo de virtualización **Proxmox VE 9.0.3** ejecutándose en un hardware **BMAX Pro** con 32GB de RAM y 1TB de disco duro[cite: 3].
+El despliegue se realiza sobre un nodo de virtualización **Proxmox VE 9.0.3** ejecutándose en un hardware **BMAX Pro** con 32GB de RAM y 1TB de disco duro.
 
 ### Especificaciones de la VM (rhca-labs)
-* **CPU**: 1 Socket / 2 Cores (Tipo: Host para acceso real al microprocesador)[cite: 4, 30].
-* **RAM**: 4GB (4096MB)[cite: 4, 31].
-* **Disco**: 40GB (VirtIO)[cite: 4, 28].
-* **Sistema**: Qemu Agent habilitado para gestión desde el hipervisor[cite: 27].
+* **CPU**: 1 Socket / 2 Cores (Tipo: Host para acceso real al microprocesador).
+* **RAM**: 4GB (4096MB).
+* **Disco**: 40GB (VirtIO).
+* **Sistema**: Qemu Agent habilitado para gestión desde el hipervisor.
 
 ---
 
 ## 💾 Gestión de Almacenamiento (LVM)
-Se aplica un particionado manual basado en **Logical Volume Management (LVM)** para garantizar flexibilidad en la gestión de volúmenes[cite: 5, 56, 57].
+Se aplica un particionado manual basado en **Logical Volume Management (LVM)** para garantizar flexibilidad en la gestión de volúmenes.
 
 | Punto de Montaje | Tamaño | Tipo / Volume Group | Sistema de Archivos |
 | :--- | :--- | :--- | :--- |
@@ -54,12 +54,12 @@ Para asegurar la accesibilidad permanente del servidor en el laboratorio, se con
 
 ```bash
 # Definición de IP, Máscara y Puerta de Enlace
-sudo nmcli con mod ens18 ipv4.addresses 192.168.1.21/24 ipv4.gateway 192.168.1.1 [cite: 13, 98]
+sudo nmcli con mod ens18 ipv4.addresses 192.168.1.21/24 ipv4.gateway 192.168.1.1
 
 # Configuración de Servidores DNS (Google y Cloudflare)
-sudo nmcli con mod ens18 ipv4.dns "8.8.8.8,1.1.1.1" [cite: 13, 100]
+sudo nmcli con mod ens18 ipv4.dns "8.8.8.8,1.1.1.1"
 
 # Cambio de modo DHCP a Manual y aplicación de cambios
-sudo nmcli con mod ens18 ipv4.method manual [cite: 102]
-sudo nmcli con up ens18 [cite: 104]
+sudo nmcli con mod ens18 ipv4.method manual
+sudo nmcli con up ens18
 ```
