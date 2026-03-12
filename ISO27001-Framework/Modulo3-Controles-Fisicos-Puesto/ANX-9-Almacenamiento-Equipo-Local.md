@@ -37,5 +37,11 @@ Para optimizar el rendimiento y la seguridad del almacenamiento local, se establ
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!NOTE]
 > La correcta aplicación de este anexo reduce drásticamente el impacto de un fallo de hardware local, al asegurar que la información relevante sea movida a sistemas con alta disponibilidad y respaldo.
