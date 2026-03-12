@@ -24,12 +24,12 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 ## 🏛️ Módulo 1: Controles Organizativos
 *Gestión estratégica, legal y operativa de la seguridad.*
 
-* [Anexo 16: Clasificación de la información](ISO27001-Framework/Modulo1-Controles-Organizativos/ANX-16-Clasificacion-Informacion.md)
-* [Anexo 21: Respuesta a Incidentes](./ISO27001-Framework/Modulo1-Controles-Organizativos/Anexo-21-Respuesta-Incidentes.md)
-* [Anexo 22: Continuidad de Negocio](./ISO27001-Framework/Modulo1-Controles-Organizativos/Anexo-22-Continuidad-Negocio.md)
-* [Anexo 23: Cumplimiento Legal](./ISO27001-Framework/Modulo1-Controles-Organizativos/Anexo-23-Cumplimiento-Legal.md)
-* [Anexo 27: Relación de Proveedores](./ISO27001-Framework/Modulo1-Controles-Organizativos/Anexo-27-Relacion-Proveedores.md)
-* [Anexo 28: Plan de Seguridad](./ISO27001-Framework/Modulo1-Controles-Organizativos/Anexo-28-Plan-Seguridad.md)
+* [ANX-16: Clasificación de la Información](./Modulo1-Controles-Organizativos/ANX-16-Clasificacion-Informacion.md)
+* [ANX-21: Gestión de Respuestas a Incidentes](./Modulo1-Controles-Organizativos/ANX-21-Respuestas-Incidentes.md)
+* [ANX-22: Continuidad de Negocio](./Modulo1-Controles-Organizativos/ANX-22-Continuidad-Negocio.md)
+* [ANX-23: Cumplimiento Legal y Normativo](./Modulo1-Controles-Organizativos/ANX-23-Cumplimiento-Legal.md)
+* [ANX-27: Relación con Proveedores](./Modulo1-Controles-Organizativos/ANX-27-Relacion-Proveedores.md)
+* [ANX-28: Plan de Seguridad](./Modulo1-Controles-Organizativos/ANX-28-Plan-Seguridad.md)
 
 ---
 
