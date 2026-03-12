@@ -50,5 +50,11 @@ Cada registro generado debe incluir, como mínimo, la siguiente información par
 
 ---
 
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
+
 ## 🚀 Implementación Técnica Recomendada
 Para dar cumplimiento a este anexo, se recomienda el despliegue de una solución de tipo **SIEM (Wazuh)** que permita centralizar estos registros, correlacionar eventos de seguridad y generar alertas automáticas ante picos de rendimiento o cambios en configuraciones críticas.
