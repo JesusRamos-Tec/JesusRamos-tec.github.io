@@ -52,5 +52,10 @@ Una vez clasificada la información, se aplican los controles técnicos correspo
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
 > [!TIP]
 > **Visión del Administrador:** En entornos Windows, esto se traduce habitualmente en la implementación de **FSRM** (File Server Resource Manager) para clasificar archivos automáticamente o el uso de **Azure Information Protection** para etiquetar documentos en la nube.
