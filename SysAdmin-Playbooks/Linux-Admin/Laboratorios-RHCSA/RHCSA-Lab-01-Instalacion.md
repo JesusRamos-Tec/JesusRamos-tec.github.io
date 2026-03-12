@@ -20,7 +20,7 @@ Se aplica un particionado manual basado en **Logical Volume Management (LVM)** p
 | :--- | :--- | :--- | :--- |
 | `/boot` | 1024 MiB | Partición Estándar | XFS |
 | `swap` | 2 GiB | LV en `rhel_rhca-node01` | swap |
-| `/` | [cite_start]37 GiB [cite: 8, 61] | [cite_start]LV en `rhel_rhca-node01` [cite: 7] | [cite_start]XFS [cite: 8] |
+| `/` | 37 GiB | LV en `rhel_rhca-node01` | XFS |
 
 ---
 
