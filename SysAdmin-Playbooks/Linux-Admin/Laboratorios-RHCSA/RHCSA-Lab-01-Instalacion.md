@@ -34,17 +34,32 @@ El sistema debe estar registrado en el portal de Red Hat para acceder a los repo
 
 ```bash
 # Registro del sistema
-sudo subscription-manager register [cite: 11]
-sudo subscription-manager attach --auto [cite: 73]
+sudo subscription-manager register
+sudo subscription-manager attach --auto
 
 # Actualización completa de paquetes
-sudo dnf update -y [cite: 79]
+sudo dnf update -y
 ```
 
 ### 3. Herramientas de Administración
-[cite_start]Instalación del kit básico de supervivencia para el administrador[cite: 80]:
+Instalación del kit básico de supervivencia para el administrador:
 
-* [cite_start]**`vim`**: Editor de archivos de configuración (equivalente a nano)[cite: 83].
-* [cite_start]**`bash-completion`**: Permite completar comandos automáticamente pulsando la tecla **Tab**[cite: 84].
-* [cite_start]**`net-tools`**: Incluye utilidades clásicas de red como `ifconfig` o `netstat`[cite: 85].
-* [cite_start]**`wget` / `curl`**: Herramientas imprescindibles para la descarga de recursos y archivos directamente desde la web al servidor[cite: 86].
+* **`vim`**: Editor de archivos de configuración (equivalente a nano).
+* **`bash-completion`**: Permite completar comandos automáticamente pulsando la tecla **Tab**.
+* **`net-tools`**: Incluye utilidades clásicas de red como `ifconfig` o `netstat`.
+* **`wget` / `curl`**: Herramientas imprescindibles para la descarga de recursos y archivos directamente desde la web al servidor.
+
+## 🌐 Configuración de Red Estática
+Para asegurar la accesibilidad permanente del servidor en el laboratorio, se configura un direccionamiento estático mediante la herramienta nmcli.
+
+```bash
+# Definición de IP, Máscara y Puerta de Enlace
+sudo nmcli con mod ens18 ipv4.addresses 192.168.1.21/24 ipv4.gateway 192.168.1.1 [cite: 13, 98]
+
+# Configuración de Servidores DNS (Google y Cloudflare)
+sudo nmcli con mod ens18 ipv4.dns "8.8.8.8,1.1.1.1" [cite: 13, 100]
+
+# Cambio de modo DHCP a Manual y aplicación de cambios
+sudo nmcli con mod ens18 ipv4.method manual [cite: 102]
+sudo nmcli con up ens18 [cite: 104]
+```
