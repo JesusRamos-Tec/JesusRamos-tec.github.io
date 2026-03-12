@@ -12,6 +12,7 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 * **Avanzado (A):** Medidas que requieren software específico, configuraciones complejas y planes de recuperación.
 
 ### 🎯 Alcance del Control
+
 | Siglas | Alcance | Descripción |
 | :--- | :--- | :--- |
 | **PRO** | **Procesos** | Orientado a la dirección, gestión y cumplimiento legal. |
