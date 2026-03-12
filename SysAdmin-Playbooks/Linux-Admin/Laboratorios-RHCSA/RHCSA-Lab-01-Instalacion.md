@@ -10,7 +10,7 @@ El despliegue se realiza sobre un nodo de virtualización **Proxmox VE 9.0.3** e
 * **RAM**: 4GB (4096MB).
 * **Disco**: 40GB (VirtIO).
 * **Sistema**: Qemu Agent habilitado para gestión desde el hipervisor.
-[Enter]
+
 
 ![Configuración de la VM en Proxmox](./img-lab-01-instalacion/01.png) <br>
 *Configuración detallada de la VM incluyendo Qemu Agent y tipo de CPU Host.*
@@ -26,7 +26,6 @@ Se aplica un particionado manual basado en **Logical Volume Management (LVM)** p
 | `swap` | 2 GiB | LV en `rhel_rhca-node01` | swap |
 | `/` | 37 GiB | LV en `rhel_rhca-node01` | XFS |
 
-[Enter]
 
 ![Configuración de la VM en Proxmox](./img-lab-01-instalacion/04.png) <br>
 *Esquema final de volúmenes lógicos antes de comenzar la instalación.*
@@ -38,18 +37,18 @@ Se aplica un particionado manual basado en **Logical Volume Management (LVM)** p
 ### 1. Selección de Software
 Se ha optado por una **"Minimal Install"**.<br>
 Esta selección instala únicamente lo estrictamente necesario, optimizando el rendimiento y centrando el aprendizaje en la administración por línea de comandos.
-[Enter]
+
 
 ![Instalación de paquetes exitosa](./img-lab-01-instalacion/07.png)
-[Enter]
+
 
 ### 2. Registro y Actualización
 El sistema debe estar registrado en el portal de Red Hat para acceder a los repositorios oficiales y parches de seguridad.
-[Enter]
+
 
 ![Validación de Red y SSH](./img-lab-01-instalacion/08.png)<br>
 *Verificación de conectividad desde Windows PowerShell hacia el nodo RHEL.*
-[Enter]
+
 
 ```bash
 # Registro del sistema
