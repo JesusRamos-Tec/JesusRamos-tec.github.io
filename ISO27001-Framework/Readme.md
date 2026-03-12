@@ -36,9 +36,9 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 ## 👥 Módulo 2: Controles de Personas
 *Seguridad aplicada al factor humano y teletrabajo.*
 
-* [Anexo 05: Teletrabajo](Modulo2-Controles-Personas/Anexo-05-Teletrabajo.md)
-* [Anexo 25: Formación y Concienciación](Modulo2-Controles-Personas/Anexo-25-Formacion-Concienciacion.md)
-* [Anexo 26: Gestión de Recursos Humanos](Modulo2-Controles-Personas/Anexo-26-Gestion-Recursos-Humanos.md)
+* [Anexo 05: Teletrabajo](./Modulo2-Controles-Personas/Anexo-05-Teletrabajo.md)
+* [Anexo 25: Formación y Concienciación](./Modulo2-Controles-Personas/Anexo-25-Formacion-Concienciacion.md)
+* [Anexo 26: Gestión de Recursos Humanos](./Modulo2-Controles-Personas/Anexo-26-Gestion-Recursos-Humanos.md)
 
 ---
 
