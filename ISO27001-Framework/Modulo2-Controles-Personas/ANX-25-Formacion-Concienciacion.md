@@ -46,5 +46,11 @@ El objetivo final es promover un entorno donde la seguridad sea una prioridad co
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!TIP]
 > **Consejo de IT:** Los simulacros de Phishing controlados son la mejor herramienta de evaluación. Ayudan a identificar qué departamentos necesitan más refuerzo sin poner en riesgo los sistemas reales.
