@@ -1,7 +1,4 @@
-
-
-
-# Base de Conocimientos Técnica: Lab & Ops
+## Base de Conocimientos Técnica: Lab & Ops
 
 Bienvenido a mi base de conocimientos personal. Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encontrarás cosas a medias y que han explotado, jeje), ciberseguridad (ISO27001:2022) y mi camino hacia la certificación **RHCSA**.
 
