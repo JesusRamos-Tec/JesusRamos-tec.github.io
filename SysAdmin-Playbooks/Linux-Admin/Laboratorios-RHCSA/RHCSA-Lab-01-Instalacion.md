@@ -27,10 +27,10 @@ Se aplica un particionado manual basado en **Logical Volume Management (LVM)** p
 ## ⚙️ Configuración del Sistema
 
 ### 1. Selección de Software
-[cite_start]Se ha optado por una **"Minimal Install"**[cite: 43]. [cite_start]Esta selección instala únicamente lo estrictamente necesario, optimizando el rendimiento y centrando el aprendizaje en la administración por línea de comandos[cite: 43].
+Se ha optado por una **"Minimal Install"**. Esta selección instala únicamente lo estrictamente necesario, optimizando el rendimiento y centrando el aprendizaje en la administración por línea de comandos.
 
 ### 2. Registro y Actualización
-[cite_start]El sistema debe estar registrado en el portal de Red Hat para acceder a los repositorios oficiales y parches de seguridad[cite: 11, 71].
+El sistema debe estar registrado en el portal de Red Hat para acceder a los repositorios oficiales y parches de seguridad.
 
 ```bash
 # Registro del sistema
