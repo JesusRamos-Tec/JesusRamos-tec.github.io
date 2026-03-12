@@ -39,3 +39,12 @@ sudo subscription-manager attach --auto [cite: 73]
 
 # Actualización completa de paquetes
 sudo dnf update -y [cite: 79]
+```
+
+### 3. Herramientas de Administración
+[cite_start]Instalación del kit básico de supervivencia para el administrador[cite: 80]:
+
+* [cite_start]**`vim`**: Editor de archivos de configuración (equivalente a nano)[cite: 83].
+* [cite_start]**`bash-completion`**: Permite completar comandos automáticamente pulsando la tecla **Tab**[cite: 84].
+* [cite_start]**`net-tools`**: Incluye utilidades clásicas de red como `ifconfig` o `netstat`[cite: 85].
+* [cite_start]**`wget` / `curl`**: Herramientas imprescindibles para la descarga de recursos y archivos directamente desde la web al servidor[cite: 86].
