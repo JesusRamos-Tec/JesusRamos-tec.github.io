@@ -55,5 +55,10 @@ En caso de que el incidente suponga una **brecha de seguridad de datos personale
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
 > [!TIP]
 > **Lecciones Aprendidas:** Un incidente no termina cuando se soluciona el problema técnico. Termina cuando se analiza la causa raíz y se aplica un cambio en el sistema para que no vuelva a ocurrir.
