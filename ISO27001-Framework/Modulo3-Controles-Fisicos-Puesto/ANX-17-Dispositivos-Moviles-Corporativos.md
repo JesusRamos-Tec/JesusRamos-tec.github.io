@@ -58,3 +58,11 @@ Ante la pérdida, robo o sospecha de infección por malware, el usuario debe **n
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
