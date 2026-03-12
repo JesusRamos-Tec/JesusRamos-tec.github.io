@@ -53,5 +53,11 @@ Garantizar que los empleados y contratistas comprenden sus responsabilidades y s
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!WARNING]
 > **Nota del Auditor:** La mayor amenaza para la seguridad de la información suele ser el "usuario interno". La gestión adecuada de los permisos y la concienciación continua son las defensas más efectivas.
