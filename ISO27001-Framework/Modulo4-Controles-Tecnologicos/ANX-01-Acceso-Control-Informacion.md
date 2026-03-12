@@ -65,5 +65,11 @@ Al finalizar la relación con la organización, se ejecutarán de inmediato las 
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!TIP]
 > **Registro de Eventos:** Es vital registrar no solo el "quién", sino también el "cuándo" y la "finalidad" del acceso para cumplir con los estándares de trazabilidad de la ISO 27001.
