@@ -51,5 +51,11 @@ Se emplearán, según la necesidad técnica, los siguientes métodos:
 **Fecha:** __________
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!IMPORTANT]
 > **Regla de Oro:** Un backup que no ha sido probado en una restauración exitosa no se considera un backup válido para la ISO 27001.
