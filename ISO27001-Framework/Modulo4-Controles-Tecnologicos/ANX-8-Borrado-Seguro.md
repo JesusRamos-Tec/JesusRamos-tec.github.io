@@ -58,3 +58,10 @@ Para soportes que salen de la organización o están averiados:
 
 **Revisado por:** ___________________________  
 **Fecha:** __________
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
