@@ -29,7 +29,7 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci√
 * [Anexo 22: Continuidad de Negocio](./ISO27001-Framework/Modulo1-Controles-Organizativos/Anexo-22-Continuidad-Negocio.md)
 * [Anexo 23: Cumplimiento Legal](./ISO27001-Framework/Modulo1-Controles-Organizativos/Anexo-23-Cumplimiento-Legal.md)
 * [Anexo 27: Relaci√≥n de Proveedores](./ISO27001-Framework/Modulo1-Controles-Organizativos/Anexo-27-Relacion-Proveedores.md)
-* [Anexo 28: Plan de Seguridad](../Modulo1-Controles-Organizativos/Anexo-28-Plan-Seguridad.md)
+* [Anexo 28: Plan de Seguridad](./ISO27001-Framework/Modulo1-Controles-Organizativos/Anexo-28-Plan-Seguridad.md)
 
 ---
 
