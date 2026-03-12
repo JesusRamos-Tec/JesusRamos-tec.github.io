@@ -51,5 +51,11 @@ Para asegurar el cumplimiento del RGPD, la tecnología debe permitir:
 4. **Borrado Seguro:** Garantizar la destrucción irreversible de los datos cuando expire su plazo de conservación (ANX-08).
 
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+
+---
+
 > [!IMPORTANT]
 > El desconocimiento de la ley no exime de su cumplimiento. Este anexo se revisará anualmente o ante cualquier cambio legislativo relevante en el ámbito de la ciberseguridad.
