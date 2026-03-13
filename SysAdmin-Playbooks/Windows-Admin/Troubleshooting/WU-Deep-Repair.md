@@ -109,7 +109,7 @@ regsvr32.exe wuwebv.dll
 Cuando el registro de Windows está tan dañado que ninguna herramienta lo repara, se opta por una Instalación de Reparación usando el Media Creation Tool de Microsoft, conservando archivos y aplicaciones.
 
 ----
-💡 Lecciones Aprendidas (El factor Hardware)
+###💡 Lecciones Aprendidas (El factor Hardware)
 A pesar de agotar la vía del software, este caso de estudio dejó dos conclusiones clave:
 
 **Hardware Inesperado:** En el equipo original, tras toda la batalla técnica, el problema resultó ser un fallo físico en el disco duro (SSD). La corrupción de datos impedía la escritura de nuevos parches.
