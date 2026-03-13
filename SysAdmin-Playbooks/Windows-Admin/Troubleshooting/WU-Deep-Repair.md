@@ -102,8 +102,9 @@ regsvr32.exe qmgrprxy.dll
 regsvr32.exe wucltux.dll
 regsvr32.exe muweb.dll
 regsvr32.exe wuwebv.dll
-</details>
 ```
+</details>
+
 ### Nivel 7: In-Place Upgrade (Reparación de Instalación)
 Cuando el registro de Windows está tan dañado que ninguna herramienta lo repara, se opta por una Instalación de Reparación usando el Media Creation Tool de Microsoft, conservando archivos y aplicaciones.
 
