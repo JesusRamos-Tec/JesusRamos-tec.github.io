@@ -119,6 +119,6 @@ A pesar de agotar la vía del software, este caso de estudio dejó dos conclusio
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
+[Volver al Índice SysAdmin-Playbooks](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
 
 ---
