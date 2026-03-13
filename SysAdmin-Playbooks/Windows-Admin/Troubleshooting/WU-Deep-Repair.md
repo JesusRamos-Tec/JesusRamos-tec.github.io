@@ -112,9 +112,10 @@ Cuando el registro de Windows está tan dañado que ninguna herramienta lo repar
 💡 Lecciones Aprendidas (El factor Hardware)
 A pesar de agotar la vía del software, este caso de estudio dejó dos conclusiones clave:
 
-Hardware Inesperado: En el equipo original, tras toda la batalla técnica, el problema resultó ser un fallo físico en el disco duro (SSD). La corrupción de datos impedía la escritura de nuevos parches.
+**Hardware Inesperado:** En el equipo original, tras toda la batalla técnica, el problema resultó ser un fallo físico en el disco duro (SSD). La corrupción de datos impedía la escritura de nuevos parches.
 
-Eficacia del Punto 7: En otros equipos con síntomas idénticos, la opción de In-Place Upgrade (Nivel 7) fue la solución definitiva, ahorrando horas de intentos manuales fallidos.
+**Eficacia del Punto 7:** En otros equipos con síntomas idénticos, la opción de In-Place Upgrade (Nivel 7) fue la solución definitiva, ahorrando horas de intentos manuales fallidos.
+
 ---
 
 ## ⬅️ Navegación
