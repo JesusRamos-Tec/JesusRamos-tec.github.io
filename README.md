@@ -1,22 +1,53 @@
-## Base de Conocimientos Técnica: Lab & Ops
+# 🐧 Base de Conocimientos Técnica: Lab & Ops
 
-Bienvenido a mi base de conocimientos personal. Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encontrarás cosas a medias y que han explotado, jeje), ciberseguridad (ISO27001:2022) y mi camino hacia la certificación **RHCSA**.
+Bienvenido a mi base de conocimientos personal. <br>
+Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encontrarás cosas a medias y que han explotado, jeje), ciberseguridad (ISO27001) y mi camino hacia la certificación **RHCSA**.
 
 ---
 
 ## 🚀 Proyectos Destacados
+*Selección de implementaciones críticas y casos de estudio.*
 
 ### 🛡️ Ciberseguridad & Compliance
 - **[ISO 27001:2022 Framework](./ISO27001-Framework/)**: Despliegue de los 29 anexos de seguridad (SGSI) organizados por módulos operativos.
 - **[Monitorización con Wazuh](./manual-wazuh.md)**: Despliegue de SIEM en entornos críticos y gestión de alertas.
 
 ### 🏗️ Infraestructura & Networking
-- **[Replanteo de Red IT](./proyecto-red.md)**: Diseño de segmentación mediante VLSM y VLANs
-- **[Automatización de Guardado](./02-Guias-Tecnicas/Guardado-Archivos-Servidor.md)**: Configuración técnica de GPOs, redirección de carpetas y cuotas FSRM.
+- **[Replanteo de Red IT](./proyecto-red.md)**: Diseño de segmentación mediante VLSM y VLANs.
+- **[Automatización de Guardado](./SysAdmin-Playbooks/Windows-Admin/Files-Services/Guardado-Archivos-Servidor.md)**: Configuración técnica de GPOs, redirección de carpetas y cuotas FSRM.
 
 ### 🐧 Laboratorio Linux (Road to RHCSA)
 - **[Automatización con Ansible](./ansible.md)**: Gestión de infraestructura como código y automatización de tareas.
 - **[Administración RHEL](./SysAdmin-Playbooks/Linux-Admin/Laboratorios-RHCSA/RHCSA-Lab-01-Instalacion.md)**: Notas de estudio y laboratorios prácticos para la certificación.
+
+---
+
+## 🗺️ Mapa del Repositorio (Índice de Capacidades)
+*Navegación completa por el árbol de contenidos y dominios técnicos.*
+
+| Dominio | Descripción Técnica | Acceso |
+| :--- | :--- | :---: |
+| **🛡️ GRC & Ciberseguridad** | Framework ISO 27001:2022 (Módulos 1-4). | [Explorar](./ISO27001-Framework/) |
+| **🐧 Linux Administration** | Labs RHEL 9.7, RHCSA y automatización. | [Ver Labs](./SysAdmin-Playbooks/Linux-Admin/) |
+| **🪟 Windows Infrastructure** | Gestión de AD, GPOs y servicios de archivos. | [Ver Guías](./SysAdmin-Playbooks/Windows-Admin/) |
+| **📊 Gestión de Procesos** | Políticas, SPOs y plantillas operativas. | [Revisar](./Gestion-Procesos/) |
+
+<details>
+<summary><b>🔍 Ver detalle de subcarpetas y laboratorios</b></summary>
+
+#### 📁 [ISO 27001 Framework](./ISO27001-Framework/)
+* [Controles Organizativos](./ISO27001-Framework/Modulo1-Controles-Organizativos/) | [Controles de Personas](./ISO27001-Framework/Modulo2-Controles-Personas/) | [Controles Físicos](./ISO27001-Framework/Modulo3-Controles-Fisicos-Puesto/) | [Controles Tecnológicos](./ISO27001-Framework/Modulo4-Controles-Tecnologicos/)
+
+#### 📁 [SysAdmin Playbooks - Linux](./SysAdmin-Playbooks/Linux-Admin/)
+* [Laboratorios RHCSA](./SysAdmin-Playbooks/Linux-Admin/Laboratorios-RHCSA/) | [Automatización con Ansible](./SysAdmin-Playbooks/Linux-Admin/Automatizacion/) | [Monitorización](./SysAdmin-Playbooks/Linux-Admin/Monitorizacion/)
+
+#### 📁 [SysAdmin Playbooks - Windows](./SysAdmin-Playbooks/Windows-Admin/)
+* [Directivas de Grupo (GPOs)](./SysAdmin-Playbooks/Windows-Admin/GPOs/) | [Servicios de Ficheros](./SysAdmin-Playbooks/Windows-Admin/Files-Services/)
+
+#### 📁 [Gestión de Procesos](./Gestion-Procesos/)
+* [Políticas y Procedimientos (SPOs)](./Gestion-Procesos/SPOs/) | [Plantillas y Actas](./Gestion-Procesos/Pantillas-Actas/)
+
+</details>
 
 ---
 
@@ -31,5 +62,6 @@ Bienvenido a mi base de conocimientos personal. Aquí documento mis proyectos, l
 [LinkedIn](https://linkedin.com/in/juan-jesusramos-sosa) | [jjramossosa@gmail.com](mailto:jjramossosa@gmail.com)
 
 ---
+
 > [!TIP]
 > "Si algo no ha explotado todavía, es que no hemos probado suficientes configuraciones."
