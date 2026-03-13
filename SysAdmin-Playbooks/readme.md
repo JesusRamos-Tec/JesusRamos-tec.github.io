@@ -15,6 +15,7 @@ Administración de entornos Windows Server y servicios de Directorio Activo.
 * [GPOs](./Windows-Admin/GPOs/): Endurecimiento de sistemas y políticas de grupo.
 * [File Services](./Windows-Admin/Files-Services/): Cuotas FSRM y gestión de recursos compartidos.
 * [Windows Update Services(WSUS)](./Windows-Admin/WSUS-Update-Services/): Centralización de actualizaciones.
+* [Windows Update Error](./Windows-Admin/Troubleshooting/WU-Deep-Repair.md): Error en Windows Update
 
 ### 🌐 [Infraestructura de Red](./Infraestructura-Red/)
 * Diseños de segmentación, topologías y configuraciones de seguridad perimetral.
