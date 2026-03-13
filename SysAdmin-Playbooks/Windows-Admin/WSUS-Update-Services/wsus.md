@@ -73,3 +73,10 @@ Implementar WSUS requiere una estrategia de mantenimiento para evitar la saturac
 * **Limpieza de Servidor:** Ejecuta el "Asistente para la limpieza del servidor" mensualmente para eliminar actualizaciones caducadas y archivos innecesarios.
 * **Aprobación de Definiciones:** Configura reglas de Aprobación Automática para las "Actualizaciones de definiciones" (Antivirus/Defender), ya que son críticas y constantes.
 * **Monitorización de Disco:** Vigila el tamaño de la carpeta WsusContent. WSUS puede consumir cientos de GB rápidamente si se seleccionan demasiados productos.
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/SysAdmin-Playbooks/readme.md/)
+
+---
