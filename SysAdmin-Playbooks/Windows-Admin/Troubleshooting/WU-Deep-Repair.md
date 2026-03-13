@@ -116,3 +116,8 @@ Hardware Inesperado: En el equipo original, tras toda la batalla técnica, el pr
 
 Eficacia del Punto 7: En otros equipos con síntomas idénticos, la opción de In-Place Upgrade (Nivel 7) fue la solución definitiva, ahorrando horas de intentos manuales fallidos.
 ---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
+
+---
