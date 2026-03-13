@@ -77,6 +77,6 @@ Implementar WSUS requiere una estrategia de mantenimiento para evitar la saturac
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
+[Volver al Índice SysAdmin-Playbooks](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
 
 ---
