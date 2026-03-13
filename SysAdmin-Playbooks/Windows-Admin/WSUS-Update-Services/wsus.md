@@ -57,8 +57,8 @@ Si un equipo cliente no aparece en la consola de administración, seguimos este 
    ```cmd
    wuauclt.exe /detectnow /reportnow
    ```
-4. **Verificación de RSoP: Usamos la herramienta rsop.msc para confirmar visualmente qué políticas de Windows Update están ganando prioridad en el sistema.
-5. **Diagnóstico GPResult: Generamos un informe detallado de directivas para asegurar que el equipo está leyendo la GPO de WSUS:
+4. **Verificación de RSoP:** Usamos la herramienta rsop.msc para confirmar visualmente qué políticas de Windows Update están ganando prioridad en el sistema.
+5. **Diagnóstico GPResult:** Generamos un informe detallado de directivas para asegurar que el equipo está leyendo la GPO de WSUS:
    ```cmd
    gpresult /v > gpresult_wsus.txt
    ```
@@ -69,7 +69,7 @@ Si un equipo cliente no aparece en la consola de administración, seguimos este 
 
 Implementar WSUS requiere una estrategia de mantenimiento para evitar la saturación del servidor y fallos en los clientes:
 
-* **Estrategia de Grupos (Anillos): Nunca apruebes actualizaciones para toda la empresa a la vez. Crea un grupo de Test con equipos de IT, espera 48-72h y, si no hay fallos, aprueba para Producción.
-* **Limpieza de Servidor: Ejecuta el "Asistente para la limpieza del servidor" mensualmente para eliminar actualizaciones caducadas y archivos innecesarios.
-* **Aprobación de Definiciones: Configura reglas de Aprobación Automática para las "Actualizaciones de definiciones" (Antivirus/Defender), ya que son críticas y constantes.
-* **Monitorización de Disco: Vigila el tamaño de la carpeta WsusContent. WSUS puede consumir cientos de GB rápidamente si se seleccionan demasiados productos.
+* **Estrategia de Grupos (Anillos):** Nunca apruebes actualizaciones para toda la empresa a la vez. Crea un grupo de Test con equipos de IT, espera 48-72h y, si no hay fallos, aprueba para Producción.
+* **Limpieza de Servidor:** Ejecuta el "Asistente para la limpieza del servidor" mensualmente para eliminar actualizaciones caducadas y archivos innecesarios.
+* **Aprobación de Definiciones:** Configura reglas de Aprobación Automática para las "Actualizaciones de definiciones" (Antivirus/Defender), ya que son críticas y constantes.
+* **Monitorización de Disco:** Vigila el tamaño de la carpeta WsusContent. WSUS puede consumir cientos de GB rápidamente si se seleccionan demasiados productos.
