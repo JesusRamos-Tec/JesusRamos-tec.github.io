@@ -45,8 +45,42 @@ Uso de la herramienta de administración de imágenes de despliegue desde PowerS
 ```PowerShell
 Dism /online /cleanup-image /restorehealth
 ```
+
 ### Nivel 4: Renombrado de SoftwareDistribution
 Forzamos a Windows a recrear la carpeta de descarga de actualizaciones:
 1. net stop wuauserv, net stop cryptsvc, net stop bits, net stop msiserver.
 2. ren C:\Windows\SoftwareDistribution SoftwareDistribution_old
 3. Reiniciar servicios.
+
+### Nivel 5: Reset de Stack de Red
+En ocasiones, el error de actualización es un problema de resolución de nombres o sockets:
+```cmd
+netsh int ip reset C:\resetlog.txt
+netsh winsock reset
+ipconfig /flushdns
+```
+
+### Nivel 6: El "Nivel Nuclear" (Re-registro de Librerías)
+Este paso implica detener servicios, eliminar identificadores de descarga y re-registrar manualmente todas las DLLs vinculadas a Windows Update.
+<details>
+<summary><b>Ver lista de comandos de re-registro (DLLs)</b></summary>
+```cmd
+regsvr32.exe atl.dll
+regsvr32.exe urlmon.dll
+regsvr32.exe mshtml.dll
+regsvr32.exe shdocvw.dll
+... (Lista completa de 36+ librerías)
+```
+</details>
+
+### Nivel 7: In-Place Upgrade (Reparación de Instalación)
+Cuando el registro de Windows está tan dañado que ninguna herramienta lo repara, se opta por una Instalación de Reparación usando el Media Creation Tool de Microsoft, conservando archivos y aplicaciones.
+
+----
+💡 Lecciones Aprendidas (El factor Hardware)
+A pesar de agotar la vía del software, este caso de estudio dejó dos conclusiones clave:
+
+Hardware Inesperado: En el equipo original, tras toda la batalla técnica, el problema resultó ser un fallo físico en el disco duro (SSD). La corrupción de datos impedía la escritura de nuevos parches.
+
+Eficacia del Punto 7: En otros equipos con síntomas idénticos, la opción de In-Place Upgrade (Nivel 7) fue la solución definitiva, ahorrando horas de intentos manuales fallidos.
+---
