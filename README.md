@@ -52,7 +52,7 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 
 ## 🛠️ Stack Tecnológico
 - **OS:** RHEL (foco principal), Ubuntu Server, Windows Server 2016 y 2022.
-- **Networking:** Sophos XG, VPN (Sophos Connect), VLAN/VLSM.
+- **Networking:** Sophos XGS3100, VPN (Sophos Connect), VLAN/VLSM.
 - **Compliance:** ISO 27001, Gestión de Riesgos, Auditoría Técnicas.
 
 ---
