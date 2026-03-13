@@ -21,10 +21,10 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 
 ---
 
-## 🗺️ Mapa del Repositorio (Índice de Capacidades)
-*Navegación completa por el árbol de contenidos y dominios técnicos.*
+## 🗺️ Mapa del Repositorio
+*Navegación completa por el árbol de contenidos.*
 
-| Dominio | Descripción Técnica | Acceso |
+| Módulo | Descripción Técnica | Acceso |
 | :--- | :--- | :---: |
 | **🛡️ GRC & Ciberseguridad** | Framework ISO 27001:2022 (Módulos 1-4). | [Explorar](./ISO27001-Framework/) |
 | **🐧 Linux Administration** | Labs RHEL 9.7, RHCSA y automatización. | [Ver Labs](./SysAdmin-Playbooks/Linux-Admin/) |
@@ -52,8 +52,8 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 
 ## 🛠️ Stack Tecnológico
 - **OS:** RHEL (foco principal), Ubuntu Server, Windows Server 2016 y 2022.
-- **Networking:** Sophos XG, VPN (IPsec/OpenVPN), VLAN/VLSM.
-- **Compliance:** ISO 27001, Gestión de Riesgos, Auditoría Técnica.
+- **Networking:** Sophos XG, VPN (Sophos Connect), VLAN/VLSM.
+- **Compliance:** ISO 27001, Gestión de Riesgos, Auditoría Técnicas.
 
 ---
 
