@@ -42,3 +42,10 @@ Se activa **Volume Shadow Copies (VSS)** en los volúmenes de datos para permiti
 2.  Configuración de la plantilla de cuotas en FSRM.
 3.  Vinculación de la GPO de redirección en modo de prueba para un grupo de control.
 4.  Ejecución de `gpupdate /force` en los puestos finales para iniciar la migración de datos local-servidor.
+
+---
+
+## ⬅️ Navegación
+[Volver al Índice ISO27001](https://jesusramos-tec.github.io/Windows-Admin/)
+
+---
