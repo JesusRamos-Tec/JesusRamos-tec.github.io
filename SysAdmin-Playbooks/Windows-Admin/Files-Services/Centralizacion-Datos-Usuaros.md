@@ -46,6 +46,6 @@ Se activa **Volume Shadow Copies (VSS)** en los volúmenes de datos para permiti
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-tec.github.io/SysAdmin-Playbooks/readme.md/)
+[Volver al Índice SysAdmin-Playbooks](https://jesusramos-tec.github.io/SysAdmin-Playbooks/readme.md/)
 
 ---
