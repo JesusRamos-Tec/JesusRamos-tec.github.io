@@ -14,6 +14,7 @@ Foco principal en la certificación **RHCSA** y administración de sistemas RHEL
 Administración de entornos Windows Server y servicios de Directorio Activo.
 * [GPOs](./Windows-Admin/GPOs/): Endurecimiento de sistemas y políticas de grupo.
 * [File Services](./Windows-Admin/Files-Services/): Cuotas FSRM y gestión de recursos compartidos.
+* [Windows Update Services(WSUS)](./Windows-Admin/WSUS-Update-Services/): Centralización de actualizaciones.
 
 ### 🌐 [Infraestructura de Red](./Infraestructura-Red/)
 * Diseños de segmentación, topologías y configuraciones de seguridad perimetral.
