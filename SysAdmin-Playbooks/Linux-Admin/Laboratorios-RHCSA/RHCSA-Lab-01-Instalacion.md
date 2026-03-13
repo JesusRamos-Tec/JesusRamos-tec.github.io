@@ -81,3 +81,9 @@ sudo nmcli con mod ens18 ipv4.dns "8.8.8.8,1.1.1.1"
 sudo nmcli con mod ens18 ipv4.method manual
 sudo nmcli con up ens18
 ```
+---
+
+## ⬅️ Navegación
+[Volver al Índice SysAdmin-Playbooks](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
+
+---
