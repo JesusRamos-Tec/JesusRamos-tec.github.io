@@ -17,7 +17,6 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 - **[Automatización de Guardado](./SysAdmin-Playbooks/Windows-Admin/Files-Services/Guardado-Archivos-Servidor.md)**: Configuración técnica de GPOs, redirección de carpetas y cuotas FSRM.
 
 ### 🐧 Laboratorio Linux (Road to RHCSA)
-- **[Automatización con Ansible](./ansible.md)**: Gestión de infraestructura como código y automatización de tareas.
 - **[Administración RHEL](./SysAdmin-Playbooks/Linux-Admin/Laboratorios-RHCSA/RHCSA-Lab-01-Instalacion.md)**: Notas de estudio y laboratorios prácticos para la certificación.
 
 ---
