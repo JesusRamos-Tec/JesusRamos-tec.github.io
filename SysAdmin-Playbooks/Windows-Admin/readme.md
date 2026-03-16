@@ -1,6 +1,11 @@
-## 🪟 [Windows Infrastructure](./Windows-Admin/)
+## 🪟 Windows Infrastructure
 Administración de entornos Windows Server y servicios de Directorio Activo.
-* [GPOs](./Windows-Admin/GPOs/): Endurecimiento de sistemas y políticas de grupo.
-* [File Services](./Windows-Admin/Files-Services/): Cuotas FSRM y gestión de recursos compartidos.
-* [Windows Update Services(WSUS)](./Windows-Admin/WSUS-Update-Services/): Centralización de actualizaciones.
-* [Troubleshootings](./Windows-Admin/Troubleshooting/): Errores de Microsoft Windows.
+
+## 📂 Contenido del Directorio
+
+| Sección | Descripción | Acceso |
+| :--- | :--- | :---: |
+| **GPOs** | Endurecimiento de sistemas y políticas de grupo. | [Explorar](./GPOs/) |
+| **File Services** | Cuotas FSRM y gestión de recursos compartidos. | [Explorar](./Files-Services/) |
+| **Windows Update Services(WSUS)** | Centralización de actualizaciones. | [Explorar](./WSUS-Update-Services/) |
+| **Troubleshootings** | Errores de Microsoft Windows. | [Explorar](./Troubleshooting/) |
