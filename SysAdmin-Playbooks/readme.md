@@ -6,9 +6,12 @@ Repositorio técnico de laboratorios, guías de configuración y playbooks de au
 
 ### 🐧 [Linux Administration](./Linux-Admin/)
 Foco principal en la certificación **RHCSA** y administración de sistemas RHEL/Debian.
-* [Laboratorios RHCSA](./Linux-Admin/Laboratorios-RHCSA/): Instalación, LVM, permisos, servicios y seguridad.
-* [Automatización](./Linux-Admin/Automatizacion/): Infraestructura como código con Ansible.
-* [Monitorización](./Linux-Admin/Monitorizacion/): Implementación de SIEM y gestión de logs.
+| Sección | Descripción | Acceso |
+| :--- | :--- | :---: |
+| **🧪 Laboratorios RHCSA** | Instalación, LVM, permisos, servicios y seguridad. | [Explorar](./Laboratorios-RHCSA/) |
+| **🤖 Automatización** | Infraestructura como código con Ansible. | [Explorar](./Automatizacion/) |
+| **📈 Monitorización** | Implementación de SIEM y gestión de logs. | [Explorar](./Monitorizacion/) |
+
 
 ### 🪟 [Windows Infrastructure](./Windows-Admin/)
 Administración de entornos Windows Server y servicios de Directorio Activo.
