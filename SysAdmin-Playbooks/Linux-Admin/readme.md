@@ -1,5 +1,5 @@
 ### 🐧 [Linux Administration](./Linux-Admin/)
-Foco principal en la certificación **RHCSA** y administración de sistemas RHEL/Debian.
+Foco principal en la certificación **RHCSA** y administración de sistemas RHEL/Debian. Reune Labs RHEL 9.7, RHCSA, automatización con Ansible y el despliegue del SIEM Wazuh.
 
 ## 📂 Contenido del Directorio
 
