@@ -28,8 +28,8 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 | :--- | :--- | :---: |
 | **🛡️ GRC & Ciberseguridad** | Framework ISO 27001:2022 (Módulos 1-4). | [Explorar](./ISO27001-Framework/) |
 | **🐧 Linux Administration** | Labs RHEL 9.7, RHCSA y automatización. | [Explorar](./SysAdmin-Playbooks/Linux-Admin/) |
-| **🪟 Windows Infrastructure** | Gestión de AD, GPOs y servicios de archivos. | [Ver Guías](./SysAdmin-Playbooks/Windows-Admin/) |
-| **📊 Gestión de Procesos** | Políticas, SPOs y plantillas operativas. | [Revisar](./Gestion-Procesos/) |
+| **🪟 Windows Infrastructure** | Gestión de AD, GPOs y servicios de archivos. | [Explorar](./SysAdmin-Playbooks/Windows-Admin/) |
+| **📊 Gestión de Procesos** | Políticas, SPOs y plantillas operativas. | [Explorar](./Gestion-Procesos/) |
 
 <details>
 <summary><b>🔍 Ver detalle de subcarpetas y laboratorios</b></summary>
