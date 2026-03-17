@@ -19,7 +19,7 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 
 | Proyecto | Descripción | Acceso |
 | :--- | :--- | :---: |
-| **Replanteo de Red IT** | Diseño de segmentación mediante VLSM y VLANs. | [Acceder](./proyecto-red.md) | 
+| **Replanteo de Red IT** | Diseño de segmentación mediante VLSM y VLANs. | [Acceder](./SysAdmin-Playbooks/Infraestructura-Red/Replanteo-Red-Core.md) | 
 | **Automatización de Guardado** | Configuración técnica de GPOs, redirección de carpetas y cuotas FSRM. | [](./SysAdmin-Playbooks/Windows-Admin/Files-Services/Guardado-Archivos-Servidor.md) |
 
 ### 🐧 Laboratorio Linux (Road to RHCSA)
