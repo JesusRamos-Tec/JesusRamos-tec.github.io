@@ -6,6 +6,7 @@ Repositorio técnico de laboratorios, guías de configuración y playbooks de au
 
 ### 🐧 [Linux Administration](./Linux-Admin/)
 Foco principal en la certificación **RHCSA** y administración de sistemas RHEL/Debian.
+
 | Sección | Descripción | Acceso |
 | :--- | :--- | :---: |
 | **🧪 Laboratorios RHCSA** | Instalación, LVM, permisos, servicios y seguridad. | [Explorar](./Laboratorios-RHCSA/) |
@@ -15,6 +16,7 @@ Foco principal en la certificación **RHCSA** y administración de sistemas RHEL
 
 ### 🪟 [Windows Infrastructure](./Windows-Admin/)
 Administración de entornos Windows Server y servicios de Directorio Activo.
+
 | Sección | Descripción | Acceso |
 | :--- | :--- | :---: |
 | **📑 GPOs** | Endurecimiento de sistemas y políticas de grupo. | [Explorar](./GPOs/) |
