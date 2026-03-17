@@ -40,28 +40,6 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 | **🪟 Windows Infrastructure** | Gestión de AD, GPOs y servicios de archivos. | [Explorar](./SysAdmin-Playbooks/Windows-Admin/) |
 | **📊 Gestión de Procesos** | Políticas, SPOs y plantillas operativas. | [Explorar](./Gestion-Procesos/) |
 
-<details>
-  
-<summary><b>🔍 Ver detalle de subcarpetas y laboratorios</b></summary>
-
-#### 📁 [ISO 27001 Framework](./ISO27001-Framework/)
-
-* [Controles Organizativos](./ISO27001-Framework/Modulo1-Controles-Organizativos/) | [Controles de Personas](./ISO27001-Framework/Modulo2-Controles-Personas/) | [Controles Físicos](./ISO27001-Framework/Modulo3-Controles-Fisicos-Puesto/) | [Controles Tecnológicos](./ISO27001-Framework/Modulo4-Controles-Tecnologicos/)
-
-#### 📁 [SysAdmin Playbooks - Linux](./SysAdmin-Playbooks/Linux-Admin/)
-
-* [Laboratorios RHCSA](./SysAdmin-Playbooks/Linux-Admin/Laboratorios-RHCSA/) | [Automatización con Ansible](./SysAdmin-Playbooks/Linux-Admin/Automatizacion/) | [Monitorización](./SysAdmin-Playbooks/Linux-Admin/Monitorizacion/)
-
-#### 📁 [SysAdmin Playbooks - Windows](./SysAdmin-Playbooks/Windows-Admin/)
-
-* [Directivas de Grupo (GPOs)](./SysAdmin-Playbooks/Windows-Admin/GPOs/) | [Servicios de Ficheros](./SysAdmin-Playbooks/Windows-Admin/Files-Services/)
-
-#### 📁 [Gestión de Procesos](./Gestion-Procesos/)
-
-* [Políticas y Procedimientos (SPOs)](./Gestion-Procesos/SPOs/) | [Plantillas y Actas](./Gestion-Procesos/Pantillas-Actas/)
-
-</details>
-
 ---
 
 ## 🛠️ Stack Tecnológico
