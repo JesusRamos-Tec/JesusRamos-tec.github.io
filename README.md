@@ -41,6 +41,7 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 | **📊 Gestión de Procesos** | Políticas, SPOs y plantillas operativas. | [Explorar](./Gestion-Procesos/) |
 
 <details>
+  
 <summary><b>🔍 Ver detalle de subcarpetas y laboratorios</b></summary>
 
 #### 📁 [ISO 27001 Framework](./ISO27001-Framework/)
