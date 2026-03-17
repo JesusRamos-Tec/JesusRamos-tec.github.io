@@ -8,3 +8,7 @@ Foco principal en la certificación **RHCSA** y administración de sistemas RHEL
 | **🧪 Laboratorios RHCSA** | Instalación, LVM, permisos, servicios y seguridad. | [Explorar](./Laboratorios-RHCSA/) |
 | **🤖 Automatización** | Infraestructura como código con Ansible. | [Explorar](./Automatizacion/) |
 | **📈 Monitorización** | Implementación de SIEM y gestión de logs. | [Explorar](./Monitorizacion/) |
+
+---
+## ⬅️ Navegación
+[Volver al Índice Principal](https://jesusramos-tec.github.io/)
