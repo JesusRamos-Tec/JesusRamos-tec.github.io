@@ -26,7 +26,7 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 
 | Proyecto | Descripción | Acceso |
 | :--- | :--- | :---: |
-| **Administración RHEL** | Notas de estudio y laboratorios prácticos para la certificación. | [Explorar](./SysAdmin-Playbooks/Linux-Admin/Laboratorios-RHCSA/) |
+| **Administración RHEL** | Notas de estudio y laboratorios prácticos para la certificación. | [Explorar](./SysAdmin-Playbooks/Linux-Admin/Laboratorios-RHCSA/RHCSA-Lab-01-Instalacion.md) |
 
 ---
 
