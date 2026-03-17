@@ -9,15 +9,24 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 *Selección de implementaciones críticas y casos de estudio.*
 
 ### 🛡️ Ciberseguridad & Compliance
-- **[ISO 27001:2022 Framework](./ISO27001-Framework/)**: Despliegue de los 29 anexos de seguridad (SGSI) organizados por módulos operativos.
-- **[Monitorización con Wazuh](./manual-wazuh.md)**: Despliegue de SIEM en entornos críticos y gestión de alertas.
+
+| Proyecto | Descripción | Acceso |
+| :--- | :--- | :---: |
+| **ISO 27001:2022 Framework** | Despliegue de los 29 anexos de seguridad (SGSI) organizados por módulos operativos. | [Consultar](./ISO27001-Framework/) | 
+| **Monitorización con Wazuh** | Despliegue de SIEM en entornos críticos y gestión de alertas. | [](./manual-wazuh.md) |
 
 ### 🏗️ Infraestructura & Networking
-- **[Replanteo de Red IT](./proyecto-red.md)**: Diseño de segmentación mediante VLSM y VLANs.
-- **[Automatización de Guardado](./SysAdmin-Playbooks/Windows-Admin/Files-Services/Guardado-Archivos-Servidor.md)**: Configuración técnica de GPOs, redirección de carpetas y cuotas FSRM.
+
+| Proyecto | Descripción | Acceso |
+| :--- | :--- | :---: |
+| **Replanteo de Red IT** | Diseño de segmentación mediante VLSM y VLANs. | [Acceder](./proyecto-red.md) | 
+| **Automatización de Guardado** | Configuración técnica de GPOs, redirección de carpetas y cuotas FSRM. | [](./SysAdmin-Playbooks/Windows-Admin/Files-Services/Guardado-Archivos-Servidor.md) |
 
 ### 🐧 Laboratorio Linux (Road to RHCSA)
-- **[Administración RHEL](./SysAdmin-Playbooks/Linux-Admin/Laboratorios-RHCSA/RHCSA-Lab-01-Instalacion.md)**: Notas de estudio y laboratorios prácticos para la certificación.
+
+| Proyecto | Descripción | Acceso |
+| :--- | :--- | :---: |
+| **Administración RHEL** | Notas de estudio y laboratorios prácticos para la certificación. | [Explorar](./SysAdmin-Playbooks/Linux-Admin/Laboratorios-RHCSA/) |
 
 ---
 
